@@ -52,7 +52,7 @@
     // ==================== 載入題庫 ====================
     async function loadQuestions() {
       try {
-        const res = await fetch('questions-unit-401字形辨正.json');
+        const res = await fetch('unit-401字形辨正.json');
         allQuestions = await res.json();
         showWelcomeScreen();
       } catch (e) {
