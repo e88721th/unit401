@@ -66,7 +66,7 @@
         <div class="text-center py-16">
           <div class="text-7xl mb-6">📝</div>
           <h3 class="text-4xl font-bold text-indigo-700 mb-3">熟能生巧練功坊</h3>
-          <button onclick="showUnitSelection()" class="w-48 py-5 bg-indigo-600 text-white text-2xl font-medium rounded-3xl shadow-xl">進入</button>
+          <button onclick="showUnitSelection()" class="w-64 py-5 bg-indigo-600 text-white text-2xl font-medium rounded-3xl shadow-xl">進入</button>
         </div>
       `;
     }
@@ -154,7 +154,7 @@
           <span>關卡 ${q.unit} • 第 <span id="q-number">${current+1}</span> / ${questions.length}</span>
           <span id="timer" class="font-mono text-orange-600">${TIME_LIMIT}</span>
         </div>
-        <div class="text-2xl font-medium mb-6">${current + 1}. ${q.question}</div>
+        <div class="text-3xl font-medium mb-6">${current + 1}. ${q.question}</div>
         <div class="grid gap-2">${shuffledOptions.map((o,i) => `
           <button onclick="selectOption(${i}, ${correctIndex}, '${q.explanation}')" 
                   class="option-btn bg-gray-50 border rounded-3xl">
