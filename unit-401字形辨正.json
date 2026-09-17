@@ -1,799 +1,7 @@
 [
-  {
+    {
     "id": 1,
     "unit": 1,
-    "category": "vocabulary",
-    "question": "「花瓣」的「瓣」字意思是什麼？",
-    "options": ["花片", "樹名", "分別", "賠償"],
-    "answer": 0,
-    "explanation": "「瓣」指花的片，常用於形容花瓣。"
-  },
-  {
-    "id": 2,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「辦學校」的「辦」字意思是什麼？",
-    "options": ["創設、經營", "分別、判別", "爭論是非", "分股編成"],
-    "answer": 0,
-    "explanation": "「辦」指創設或經營某事物，如辦學校。"
-  },
-  {
-    "id": 3,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「分辨」的「辨」字意思是什麼？",
-    "options": ["分別、判別", "償還", "陪伴", "接近"],
-    "answer": 0,
-    "explanation": "「辨」指分別或判別，如分辨是非。"
-  },
-  {
-    "id": 4,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「辯論」的「辯」字意思是什麼？",
-    "options": ["爭論是非", "愛惜、哀憐", "接近", "小薄片"],
-    "answer": 0,
-    "explanation": "「辯」指爭論或辯論，如爭辯。"
-  },
-  {
-    "id": 5,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「辮子」的「辮」字意思是什麼？",
-    "options": ["髮型", "樹名", "海中的大船", "金屬薄片"],
-    "answer": 0,
-    "explanation": "「辮」指編成條狀的髮型，如辮子。"
-  },
-  {
-    "id": 6,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「加倍」的「倍」字意思是什麼？",
-    "options": ["照原數加倍", "養育", "陪伴", "償還"],
-    "answer": 0,
-    "explanation": "「倍」指數量的增加，如加倍。"
-  },
-  {
-    "id": 7,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「培養」的「培」字意思是什麼？",
-    "options": ["養育人才", "陪伴", "償還", "分別"],
-    "answer": 0,
-    "explanation": "「培」指培養或育成，如培養人才。"
-  },
-  {
-    "id": 8,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「陪伴」的「陪」字意思是什麼？",
-    "options": ["陪伴", "養育", "償還", "分別"],
-    "answer": 0,
-    "explanation": "「陪」指伴隨或陪伴他人。"
-  },
-  {
-    "id": 9,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「賠償」的「賠」字意思是什麼？",
-    "options": ["償還", "陪伴", "分別", "養育"],
-    "answer": 0,
-    "explanation": "「賠」指償還或賠償，如賠款。"
-  },
-  {
-    "id": 10,
-    "unit": 1,
-    "category": "vocabulary",
-    "question": "「部份」的「部」字意思是什麼？",
-    "options": ["全體中的一些分子", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「部」指整體中的一部分，如局部。"
-  },
-  {
-    "id": 1,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「嶙峋」的「嶙」字意思是什麼？",
-    "options": ["山石重疊不平", "愛惜、哀憐", "接近", "小薄片"],
-    "answer": 0,
-    "explanation": "「嶙」形容山石重疊不平的樣子。"
-  },
-  {
-    "id": 2,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「可憐」的「憐」字意思是什麼？",
-    "options": ["愛惜、哀憐", "陪伴", "償還", "分別"],
-    "answer": 0,
-    "explanation": "「憐」指對他人懷有同情或愛惜之情。"
-  },
-  {
-    "id": 3,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「鄰近」的「鄰」字意思是什麼？",
-    "options": ["接近", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「鄰」指接近或相鄰的地方。"
-  },
-  {
-    "id": 4,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「魚鱗」的「鱗」字意思是什麼？",
-    "options": ["魚獸類身上的小薄片", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「鱗」指魚或其他動物的外皮小片。"
-  },
-  {
-    "id": 5,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「停泊」的「泊」字意思是什麼？",
-    "options": ["船靠岸", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「泊」指船隻靠岸停放。"
-  },
-  {
-    "id": 6,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「柏樹」的「柏」字意思是什麼？",
-    "options": ["樹名", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「柏」指一種樹木，如扁柏、松柏。"
-  },
-  {
-    "id": 7,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「大舶」的「舶」字意思是什麼？",
-    "options": ["海中的大船", "陪伴", "償還", "分別"],
-    "answer": 0,
-    "explanation": "「舶」指海上行駛的大型船隻。"
-  },
-  {
-    "id": 8,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「錫箔」的「箔」字意思是什麼？",
-    "options": ["金屬打造的薄片", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「箔」指用金屬製作的薄片，如錫箔。"
-  },
-  {
-    "id": 9,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「蜂蜜」的「蜜」字意思是什麼？",
-    "options": ["採花液釀成的甜汁", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「蜜」指蜜蜂採集花蜜釀成的甜汁。"
-  },
-  {
-    "id": 10,
-    "unit": 2,
-    "category": "vocabulary",
-    "question": "「祕密」的「密」字意思是什麼？",
-    "options": ["不應洩露的事情", "陪伴", "分別", "償還"],
-    "answer": 0,
-    "explanation": "「密」指保護不讓外人知道的事情，如祕密。"
-  },
-  {
-    "id": 1,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「耽擱」的「耽」字意思是什麼？",
-    "options": ["延遲、延誤", "著迷、沉溺於某事", "喧鬧", "洗滌"],
-    "answer": 0,
-    "explanation": "「耽」指延遲或延誤的意思。"
-  },
-  {
-    "id": 2,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「虎視眈眈」的「眈」字意思是什麼？",
-    "options": ["雙眼直視、瞪視", "著迷", "延誤", "沉溺"],
-    "answer": 0,
-    "explanation": "「眈」指雙眼直視或瞪視的樣子。"
-  },
-  {
-    "id": 3,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「噪音」的「噪」字意思是什麼？",
-    "options": ["喧鬧", "洗滌", "乾的", "性急"],
-    "answer": 0,
-    "explanation": "「噪」指喧鬧的聲音。"
-  },
-  {
-    "id": 4,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「洗澡」的「澡」字意思是什麼？",
-    "options": ["洗滌", "喧鬧", "乾的", "性急"],
-    "answer": 0,
-    "explanation": "「澡」指洗滌或清洗的行為。"
-  },
-  {
-    "id": 5,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「乾燥」的「燥」字意思是什麼？",
-    "options": ["乾的、缺少水分的", "性急", "羞愧", "獸肉腥臊的氣味"],
-    "answer": 0,
-    "explanation": "「燥」指缺少水分的乾燥狀態。"
-  },
-  {
-    "id": 6,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「急躁」的「躁」字意思是什麼？",
-    "options": ["性急", "乾的", "羞愧", "獸肉腥臊的氣味"],
-    "answer": 0,
-    "explanation": "「躁」指性急或心急的狀態。"
-  },
-  {
-    "id": 7,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「害臊」的「臊」字意思是什麼？",
-    "options": ["羞愧", "獸肉腥臊的氣味", "性急", "洗滌"],
-    "answer": 0,
-    "explanation": "「臊」指羞愧或感到羞恥的情緒。"
-  },
-  {
-    "id": 8,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「羊臊味」的「臊」字意思是什麼？",
-    "options": ["獸肉腥臊的氣味", "羞愧", "性急", "洗滌"],
-    "answer": 0,
-    "explanation": "「臊」指獸肉的腥味，特指羊肉的氣味。"
-  },
-  {
-    "id": 9,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「水藻」的「藻」字意思是什麼？",
-    "options": ["水草名", "羞愧", "性急", "洗滌"],
-    "answer": 0,
-    "explanation": "「藻」指水中的草類植物。"
-  },
-  {
-    "id": 10,
-    "unit": 3,
-    "category": "vocabulary",
-    "question": "「腦筋」的「腦」字意思是什麼？",
-    "options": ["指思想、記憶等能力", "憤怒", "煩悶不愉快", "洗滌"],
-    "answer": 0,
-    "explanation": "「腦」指與思想、記憶等相關的能力。"
-  },
-  {
-    "id": 1,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「惱羞成怒」的「惱」字意思是什麼？",
-    "options": ["憤怒", "煩悶不愉快", "洗滌", "分別"],
-    "answer": 0,
-    "explanation": "「惱」指感到憤怒或煩悶。"
-  },
-  {
-    "id": 2,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「目睹」的「睹」字意思是什麼？",
-    "options": ["看見", "爭強", "塞住", "死亡"],
-    "answer": 0,
-    "explanation": "「睹」指看見或目擊的意思。"
-  },
-  {
-    "id": 3,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「賭博」的「賭」字意思是什麼？",
-    "options": ["爭強", "看見", "塞住", "死亡"],
-    "answer": 0,
-    "explanation": "「賭」指以財物下注進行的遊戲。"
-  },
-  {
-    "id": 4,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「堵塞」的「堵」字意思是什麼？",
-    "options": ["塞住", "爭強", "看見", "死亡"],
-    "answer": 0,
-    "explanation": "「堵」指塞住或阻擋的意思。"
-  },
-  {
-    "id": 5,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「敝屣」的「敝」字意思是什麼？",
-    "options": ["破的、壞的", "自謙之詞", "遮掩", "錢"],
-    "answer": 0,
-    "explanation": "「敝」指破舊或壞掉的東西。"
-  },
-  {
-    "id": 6,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「敞開」的「敞」字意思是什麼？",
-    "options": ["張開", "寬廣", "遮掩", "錢"],
-    "answer": 0,
-    "explanation": "「敞」指張開或打開的樣子。"
-  },
-  {
-    "id": 7,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「遮蔽」的「蔽」字意思是什麼？",
-    "options": ["遮掩、掩蓋", "破的", "自謙之詞", "錢"],
-    "answer": 0,
-    "explanation": "「蔽」指遮掩或掩蓋的意思。"
-  },
-  {
-    "id": 8,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「錢幣」的「幣」字意思是什麼？",
-    "options": ["錢，用來交易的媒介", "遮掩", "破的", "自謙之詞"],
-    "answer": 0,
-    "explanation": "「幣」指用於交易的貨幣或金屬。"
-  },
-  {
-    "id": 9,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「作弊」的「弊」字意思是什麼？",
-    "options": ["非法的情事", "遮掩", "破的", "自謙之詞"],
-    "answer": 0,
-    "explanation": "「弊」指不正當或非法的行為。"
-  },
-  {
-    "id": 10,
-    "unit": 4,
-    "category": "vocabulary",
-    "question": "「坐以待斃」的「斃」字意思是什麼？",
-    "options": ["死亡", "遮掩", "破的", "自謙之詞"],
-    "answer": 0,
-    "explanation": "「斃」指死亡或喪命的意思。"
-  },
-  {
-    "id": 1,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「憋尿」的「憋」字意思是什麼？",
-    "options": ["壓抑、強忍著", "死亡", "遮掩", "破的"],
-    "answer": 0,
-    "explanation": "「憋」指壓抑或強忍的狀態。"
-  },
-  {
-    "id": 2,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「驚鴻一瞥」的「瞥」字意思是什麼？",
-    "options": ["眼神一閃", "死亡", "遮掩", "破的"],
-    "answer": 0,
-    "explanation": "「瞥」指眼神一閃，快速的過目。"
-  },
-  {
-    "id": 3,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「債務」的「債」字意思是什麼？",
-    "options": ["欠人錢財", "功業成就", "儲存", "行蹤"],
-    "answer": 0,
-    "explanation": "「債」指欠他人的財物或金錢。"
-  },
-  {
-    "id": 4,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「成績」的「績」字意思是什麼？",
-    "options": ["功業成就", "儲存", "欠人錢財", "行蹤"],
-    "answer": 0,
-    "explanation": "「績」指所取得的成就或成果。"
-  },
-  {
-    "id": 5,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「積蓄」的「積」字意思是什麼？",
-    "options": ["儲存、力圖進取", "欠人錢財", "功業成就", "行蹤"],
-    "answer": 0,
-    "explanation": "「積」指儲存或累積的行為。"
-  },
-  {
-    "id": 6,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「蹤跡」的「蹟」字意思是什麼？",
-    "options": ["行蹤", "功業成就", "欠人錢財", "儲存"],
-    "answer": 0,
-    "explanation": "「蹟」指行蹤或留下的痕跡。"
-  },
-  {
-    "id": 7,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「油漬」的「漬」字意思是什麼？",
-    "options": ["汙點／浸泡", "功業成就", "欠人錢財", "行蹤"],
-    "answer": 0,
-    "explanation": "「漬」指浸泡或留下的汙點。"
-  },
-  {
-    "id": 8,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「嘖嘖」的「嘖」字意思是什麼？",
-    "options": ["發出讚美的聲音", "功業成就", "欠人錢財", "行蹤"],
-    "answer": 0,
-    "explanation": "「嘖」指發出讚美或驚奇的聲音。"
-  },
-  {
-    "id": 9,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「締結」的「締」字意思是什麼？",
-    "options": ["結合、訂立", "吩咐", "道理", "仔細"],
-    "answer": 0,
-    "explanation": "「締」指結合或訂立協議的行為。"
-  },
-  {
-    "id": 10,
-    "unit": 5,
-    "category": "vocabulary",
-    "question": "「真諦」的「諦」字意思是什麼？",
-    "options": ["道理、義理", "吩咐", "結合", "仔細"],
-    "answer": 0,
-    "explanation": "「諦」指真理或道理的意思。"
-  },
-  {
-    "id": 1,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「考卷」的「卷」字意思是什麼？",
-    "options": ["書籍的通稱", "可作憑證的紙票", "明滅閃動的樣子", "叫喊、呼喊"],
-    "answer": 0,
-    "explanation": "「卷」指考試或測驗的題紙。"
-  },
-  {
-    "id": 2,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「入場券」的「券」字意思是什麼？",
-    "options": ["可作憑證的紙票", "書籍的通稱", "明滅閃動的樣子", "叫喊、呼喊"],
-    "answer": 0,
-    "explanation": "「券」指可以作為憑證的紙票或票據。"
-  },
-  {
-    "id": 3,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「美輪美奐」的「奐」字意思是什麼？",
-    "options": ["文采鮮明而美麗", "叫喊、呼喊", "明滅閃動的樣子", "可作憑證的紙票"],
-    "answer": 0,
-    "explanation": "「奐」指文采出眾、華麗的樣子。"
-  },
-  {
-    "id": 4,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「千呼萬喚」的「喚」字意思是什麼？",
-    "options": ["叫喊、呼喊", "文采鮮明而美麗", "明滅閃動的樣子", "可作憑證的紙票"],
-    "answer": 0,
-    "explanation": "「喚」指大聲呼喊或叫喚的行為。"
-  },
-  {
-    "id": 5,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「身體癱瘓」的「瘓」字意思是什麼？",
-    "options": ["肢體麻木，不能自由活動", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
-    "answer": 0,
-    "explanation": "「瘓」指身體的肢體無法自由活動的狀態。"
-  },
-  {
-    "id": 6,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「更換」的「換」字意思是什麼？",
-    "options": ["改變、更改", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
-    "answer": 0,
-    "explanation": "「換」指改變或更改的行為。"
-  },
-  {
-    "id": 7,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「容光煥發」的「煥」字意思是什麼？",
-    "options": ["明亮、有神的樣子", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
-    "answer": 0,
-    "explanation": "「煥」指明亮或有神采的樣子。"
-  },
-  {
-    "id": 8,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「精神渙散」的「渙」字意思是什麼？",
-    "options": ["離散、不集中的樣子", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
-    "answer": 0,
-    "explanation": "「渙」指精神不集中或分散的狀態。"
-  },
-  {
-    "id": 9,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「衷心」的「衷」字意思是什麼？",
-    "options": ["內心", "悲傷，心裡難過", "由強盛而逐漸弱敗", "明滅閃動的樣子"],
-    "answer": 0,
-    "explanation": "「衷」指內心或心底的情感。"
-  },
-  {
-    "id": 10,
-    "unit": 6,
-    "category": "vocabulary",
-    "question": "「悲哀」的「哀」字意思是什麼？",
-    "options": ["悲傷，心裡難過", "內心", "由強盛而逐漸弱敗", "明滅閃動的樣子"],
-    "answer": 0,
-    "explanation": "「哀」指感到悲傷或難過的情緒。"
-  },
-  {
-    "id": 1,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「衰弱」的「衰」字意思是什麼？",
-    "options": ["由強盛而逐漸弱敗", "內心", "悲傷，心裡難過", "明滅閃動的樣子"],
-    "answer": 0,
-    "explanation": "「衰」指從強盛到衰弱的過程。"
-  },
-  {
-    "id": 2,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「閃爍」的「爍」字意思是什麼？",
-    "options": ["明滅閃動的樣子", "由強盛而逐漸弱敗", "內心", "悲傷，心裡難過"],
-    "answer": 0,
-    "explanation": "「爍」指明亮閃爍的樣子。"
-  },
-  {
-    "id": 3,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「熔鑠」的「鑠」字意思是什麼？",
-    "options": ["用火熔化金屬", "內心", "悲傷，心裡難過", "明滅閃動的樣子"],
-    "answer": 0,
-    "explanation": "「鑠」指用火熔化金屬的過程。"
-  },
-  {
-    "id": 4,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「小礫」的「礫」字意思是什麼？",
-    "options": ["小石子", "埋葬死者的地方", "每一季的第三個月", "傍晚"],
-    "answer": 0,
-    "explanation": "「礫」指小石子的意思。"
-  },
-  {
-    "id": 5,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「墳墓」的「墓」字意思是什麼？",
-    "options": ["埋葬死者的地方", "每一季的第三個月", "傍晚", "心中有所悸動"],
-    "answer": 0,
-    "explanation": "「墓」指埋葬死者的地方。"
-  },
-  {
-    "id": 6,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「暮春」的「暮」字意思是什麼？",
-    "options": ["每一季的第三個月", "埋葬死者的地方", "心中有所悸動", "傍晚"],
-    "answer": 0,
-    "explanation": "「暮」指每一季的最後一個月或傍晚的意思。"
-  },
-  {
-    "id": 7,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「羨慕」的「慕」字意思是什麼？",
-    "options": ["心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月", "傍晚"],
-    "answer": 0,
-    "explanation": "「慕」指對他人或事物心生向往的情感。"
-  },
-  {
-    "id": 8,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「開幕」的「幕」字意思是什麼？",
-    "options": ["通常用來遮蔽空間的布料", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
-    "answer": 0,
-    "explanation": "「幕」指用來遮擋空間的布料或帷幕。"
-  },
-  {
-    "id": 9,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「募款」的「募」字意思是什麼？",
-    "options": ["廣求、召集", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
-    "answer": 0,
-    "explanation": "「募」指廣泛尋求或召集的行為。"
-  },
-  {
-    "id": 10,
-    "unit": 7,
-    "category": "vocabulary",
-    "question": "「臨摹」的「摹」字意思是什麼？",
-    "options": ["仿效、模擬", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
-    "answer": 0,
-    "explanation": "「摹」指仿效或模擬的行為。"
-  },
-  {
-    "id": 1,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「驀然」的「驀」字意思是什麼？",
-    "options": ["忽然、突然", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
-    "answer": 0,
-    "explanation": "「驀」指忽然或突然的情況。"
-  },
-  {
-    "id": 2,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「金屬」的「屬」字意思是什麼？",
-    "options": ["類別／親眷", "吩咐、叮嚀", "被別人注視、重視", "每一季的第三個月"],
-    "answer": 0,
-    "explanation": "「屬」指類別或親屬的意思。"
-  },
-  {
-    "id": 3,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「囑託」的「囑」字意思是什麼？",
-    "options": ["吩咐、叮嚀", "類別／親眷", "被別人注視、重視", "每一季的第三個月"],
-    "answer": 0,
-    "explanation": "「囑」指叮囑或吩咐的意思。"
-  },
-  {
-    "id": 4,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「眾所矚目」的「矚」字意思是什麼？",
-    "options": ["被別人注視、重視", "類別／親眷", "吩咐、叮嚀", "每一季的第三個月"],
-    "answer": 0,
-    "explanation": "「矚」指被他人注視或重視的狀態。"
-  },
-  {
-    "id": 5,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「使用優惠□購物，往往比較便宜。」□中應填入哪個國字？",
-    "options": ["捲", "倦", "卷", "券"],
-    "answer": 3,
-    "explanation": "「券」指可作憑證的紙票或票據。"
-  },
-  {
-    "id": 6,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「眾口□金，人言可畏。」□中應填入哪個國字？",
-    "options": ["鑠", "樂", "礫", "爍"],
-    "answer": 3,
-    "explanation": "「爍」指光亮閃爍的樣子，這裡形容人言的威力。"
-  },
-  {
-    "id": 7,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「他們朝□相處之下，日久生情。」□中應填入哪個國字？",
-    "options": ["幕", "慕", "募", "暮"],
-    "answer": 3,
-    "explanation": "「暮」指傍晚或某一季的最後一個月。"
-  },
-  {
-    "id": 8,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「她的穿戴打扮，十分引人□目。」□中應填入哪個國字？",
-    "options": ["屬", "囑", "矚", "蜀"],
-    "answer": 2,
-    "explanation": "「矚」指被別人注視或重視的狀態。"
-  },
-  {
-    "id": 9,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「雖然只是驚鴻一□，她就愛上他。」□中應填入哪一個國字？",
-    "options": ["瞥", "憋", "幣", "斃"],
-    "answer": 0,
-    "explanation": "「瞥」指眼神一閃，快速的過目。"
-  },
-  {
-    "id": 10,
-    "unit": 8,
-    "category": "vocabulary",
-    "question": "「我們□心希望你早日康復。」□中應填入哪個國字？",
-    "options": ["衷", "哀", "衰", "袞"],
-    "answer": 0,
-    "explanation": "「衷」指內心或心底的情感。"
-  },
-  {
-    "id": 1,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「他眉開眼笑，精神□發。」□中應填入哪個國字？",
-    "options": ["換", "奐", "煥", "渙"],
-    "answer": 2,
-    "explanation": "「煥」指明亮或有神采的樣子。"
-  },
-  {
-    "id": 2,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「愛的真□在於付出，而非占有。」□中應填入哪個國字？",
-    "options": ["締", "帝", "諦", "蒂"],
-    "answer": 2,
-    "explanation": "「諦」指道理或真理的意思。"
-  },
-  {
-    "id": 3,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「不要因為這樣的小事而□惱。」□中應填入哪個國字？",
-    "options": ["瑙", "惱", "腦", "淄"],
-    "answer": 1,
-    "explanation": "「惱」指感到憤怒或煩悶的情緒。"
-  },
-  {
-    "id": 4,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「他年紀還輕，遇事難免心浮氣□。」□中應填入哪個國字？",
-    "options": ["躁", "燥", "臊", "噪"],
-    "answer": 0,
-    "explanation": "「躁」指性急或心急的狀態。"
-  },
-  {
-    "id": 5,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「隔壁林家是我們相處多年的好□居。」□中應填入哪個國字？",
-    "options": ["憐", "鄰", "磷", "嶙"],
-    "answer": 1,
-    "explanation": "「鄰」指接近或相鄰的地方。"
-  },
-  {
-    "id": 6,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「做事要按□就班，不可操之過急。」□中應填入哪個國字？",
-    "options": ["部", "陪", "倍", "培"],
-    "answer": 0,
-    "explanation": "按部就班：做事依照一定的層次、步驟或規矩進行。"
-  },
-  {
-    "id": 7,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「她綁了兩條小髮□，看起來很可愛。」□中應填入哪個國字？",
-    "options": ["辨", "辮", "辯", "辦"],
-    "answer": 1,
-    "explanation": "「辮」指編成條狀的髮型，如辮子。"
-  },
-  {
-    "id": 8,
-    "unit": 9,
-    "category": "vocabulary",
-    "question": "「那隻小狗被人遺棄了，真可□！」□中應填入哪個國字？",
-    "options": ["鄰", "磷", "嶙", "憐"],
-    "answer": 3,
-    "explanation": "「憐」指對他人懷有同情或愛惜之情。"
-  },
-  {
-    "id": 9,
-    "unit": 9,
     "category": "vocabulary",
     "question": "旗□：旌旗、旗子。□應填下列何字？",
     "options": ["織", "識", "幟", "熾"],
@@ -801,8 +9,8 @@
     "explanation": "旗幟：旌旗、旗子。"
   },
   {
-    "id": 10,
-    "unit": 9,
+    "id": 2,
+    "unit": 1,
     "category": "vocabulary",
     "question": "認□：曾經相識。□應填下列何字？",
     "options": ["織", "識", "熾", "幟"],
@@ -810,8 +18,8 @@
     "explanation": "認識：曾經相識。"
   },
   {
-    "id": 1,
-    "unit": 10,
+    "id": 3,
+    "unit": 1,
     "category": "vocabulary",
     "question": "紡□：紡紗與織布。□應填下列何字？",
     "options": ["織", "識", "幟", "熾"],
@@ -819,8 +27,8 @@
     "explanation": "紡織：紡紗與織布的過程。"
   },
   {
-    "id": 2,
-    "unit": 10,
+    "id": 4,
+    "unit": 1,
     "category": "vocabulary",
     "question": "□熱：很熱、酷熱。□應填下列何字？",
     "options": ["織", "識", "幟", "熾"],
@@ -828,8 +36,8 @@
     "explanation": "熾熱：指非常熱或酷熱的狀態。"
   },
   {
-    "id": 3,
-    "unit": 10,
+    "id": 5,
+    "unit": 1,
     "category": "vocabulary",
     "question": "仇□：仇人、敵人。□應填下列何字？",
     "options": ["摘", "謫", "滴", "敵"],
@@ -837,8 +45,8 @@
     "explanation": "仇敵：指仇人或敵對的對象。"
   },
   {
-    "id": 4,
-    "unit": 10,
+    "id": 6,
+    "unit": 1,
     "category": "vocabulary",
     "question": "水□石穿：比喻有志者事竟成。□應填下列何字？",
     "options": ["摘", "謫", "滴", "敵"],
@@ -846,8 +54,8 @@
     "explanation": "水滴石穿：形容只要努力不懈就能夠成功。"
   },
   {
-    "id": 5,
-    "unit": 10,
+    "id": 7,
+    "unit": 1,
     "category": "vocabulary",
     "question": "指□：指出錯誤並加以批評。□應填下列何字？",
     "options": ["摘", "謫", "滴", "敵"],
@@ -855,8 +63,8 @@
     "explanation": "指謫：指出錯誤並加以批評。"
   },
   {
-    "id": 6,
-    "unit": 10,
+    "id": 8,
+    "unit": 1,
     "category": "vocabulary",
     "question": "丘□：指土山或高地。□應填下列何字？",
     "options": ["陵", "綾", "凌", "稜"],
@@ -864,8 +72,8 @@
     "explanation": "丘陵：指土山或高地。"
   },
   {
-    "id": 7,
-    "unit": 10,
+    "id": 9,
+    "unit": 1,
     "category": "vocabulary",
     "question": "□線：物體兩面相交所形成的線。□應填下列何字？",
     "options": ["陵", "綾", "凌", "稜"],
@@ -873,8 +81,8 @@
     "explanation": "稜線：指物體兩面相交所形成的邊緣。"
   },
   {
-    "id": 8,
-    "unit": 10,
+    "id": 10,
+    "unit": 1,
     "category": "vocabulary",
     "question": "□晨：清晨、黎明。□應填下列何字？",
     "options": ["陵", "綾", "凌", "稜"],
@@ -882,8 +90,8 @@
     "explanation": "凌晨：指清晨或黎明的時光。"
   },
   {
-    "id": 9,
-    "unit": 10,
+    "id": 1,
+    "unit": 2,
     "category": "vocabulary",
     "question": "裝□：裝飾室內。□應填下列何字？",
     "options": ["橫", "潢", "磺", "簧"],
@@ -891,8 +99,8 @@
     "explanation": "裝潢：指裝飾室內的設計或擺設。"
   },
   {
-    "id": 10,
-    "unit": 10,
+    "id": 2,
+    "unit": 2,
     "category": "vocabulary",
     "question": "口沫□飛：唾液四處飛散。□應填下列何字？",
     "options": ["橫", "潢", "磺", "簧"],
@@ -900,8 +108,8 @@
     "explanation": "口沫橫飛：形容人放情談論，唾液四處飛散。"
   },
   {
-    "id": 1,
-    "unit": 11,
+    "id": 3,
+    "unit": 2,
     "category": "vocabulary",
     "question": "硫□：一種非金屬元素，呈黃色固體狀。□應填下列何字？",
     "options": ["橫", "潢", "磺", "簧"],
@@ -909,8 +117,8 @@
     "explanation": "硫磺：指一種非金屬元素，呈黃色固體狀。"
   },
   {
-    "id": 2,
-    "unit": 11,
+    "id": 4,
+    "unit": 2,
     "category": "vocabulary",
     "question": "彈□床：有彈性鋼條裝置的床墊。□應填下列何字？",
     "options": ["橫", "潢", "磺", "簧"],
@@ -918,8 +126,8 @@
     "explanation": "彈簧床：指有彈性鋼條裝置的床墊。"
   },
   {
-    "id": 3,
-    "unit": 11,
+    "id": 5,
+    "unit": 2,
     "category": "vocabulary",
     "question": "汗□：汗水乾後留下的淡黃色痕跡。□應填下列何字？",
     "options": ["積", "績", "嘖", "漬"],
@@ -927,8 +135,8 @@
     "explanation": "汗漬：指汗水乾後留下的淡黃色痕跡。"
   },
   {
-    "id": 4,
-    "unit": 11,
+    "id": 6,
+    "unit": 2,
     "category": "vocabulary",
     "question": "成□單：記錄成績的通知單。□應填下列何字？",
     "options": ["積", "績", "嘖", "漬"],
@@ -936,8 +144,8 @@
     "explanation": "成績單：指記錄成績的通知單。"
   },
   {
-    "id": 5,
-    "unit": 11,
+    "id": 7,
+    "unit": 2,
     "category": "vocabulary",
     "question": "□勞成疾：因長期過度勞累而生病。□應填下列何字？",
     "options": ["積", "績", "嘖", "漬"],
@@ -945,8 +153,8 @@
     "explanation": "積勞成疾：指因長期過度勞累而生病。"
   },
   {
-    "id": 6,
-    "unit": 11,
+    "id": 8,
+    "unit": 2,
     "category": "vocabulary",
     "question": "□□稱奇：咂嘴作聲，表示驚奇、讚嘆。□應填下列何字？",
     "options": ["積", "績", "嘖", "漬"],
@@ -954,8 +162,8 @@
     "explanation": "嘖嘖：表示驚奇或讚嘆的聲音。"
   },
   {
-    "id": 7,
-    "unit": 11,
+    "id": 9,
+    "unit": 2,
     "category": "vocabulary",
     "question": "□蜒：曲折延伸的樣子。□應填下列何字？",
     "options": ["蜿", "碗", "婉", "腕"],
@@ -963,8 +171,8 @@
     "explanation": "蜿蜒：形容曲折延伸的樣子。"
   },
   {
-    "id": 8,
-    "unit": 11,
+    "id": 10,
+    "unit": 2,
     "category": "vocabulary",
     "question": "溫柔□約：溫和柔順、婉轉含蓄。□應填下列何字？",
     "options": ["蜿", "碗", "婉", "腕"],
@@ -972,8 +180,8 @@
     "explanation": "婉約：形容溫和柔順、婉轉含蓄的樣子。"
   },
    {
-    "id": 9,
-    "unit": 11,
+    "id": 1,
+    "unit": 3,
     "category": "vocabulary",
     "question": "令人扼□：讓人感到惋惜。□應填下列何字？",
     "options": ["蜿", "碗", "婉", "腕"],
@@ -981,8 +189,8 @@
     "explanation": "令人扼腕：形容讓人感到惋惜或憤怒。"
   },
   {
-    "id": 10,
-    "unit": 11,
+    "id": 2,
+    "unit": 3,
     "category": "vocabulary",
     "question": "□筷：吃飯用的飯碗、筷子。□應填下列何字？",
     "options": ["蜿", "碗", "婉", "腕"],
@@ -990,8 +198,8 @@
     "explanation": "碗筷：指吃飯時使用的碗和筷子。"
   },
     {
-    "id": 1,
-    "unit": 12,
+    "id": 3,
+    "unit": 3,
     "category": "vocabulary",
     "question": "溫□：暖和。□應填下列何字？",
     "options": ["援", "媛", "緩", "暖"],
@@ -999,8 +207,8 @@
     "explanation": "溫暖：暖和。"
   },
   {
-    "id": 2,
-    "unit": 12,
+    "id": 4,
+    "unit": 3,
     "category": "vocabulary",
     "question": "伸出□手：幫助救援他人。□應填下列何字？",
     "options": ["援", "媛", "緩", "暖"],
@@ -1008,8 +216,8 @@
     "explanation": "援手：指伸出手來幫助他人。"
   },
   {
-    "id": 3,
-    "unit": 12,
+    "id": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "□汐：海水受日月引力的影響而定時漲落的現象。□應填下列何字？",
     "options": ["潮", "嘲", "朝", "廟"],
@@ -1017,8 +225,8 @@
     "explanation": "潮汐：指海水定時漲落的現象。"
   },
   {
-    "id": 4,
-    "unit": 12,
+    "id": 6,
+    "unit": 3,
     "category": "vocabulary",
     "question": "□笑：嘲謔譏笑。□應填下列何字？",
     "options": ["潮", "嘲", "朝", "廟"],
@@ -1026,8 +234,8 @@
     "explanation": "嘲笑：指譏笑或嘲諷的行為。"
   },
   {
-    "id": 5,
-    "unit": 12,
+    "id": 7,
+    "unit": 3,
     "category": "vocabulary",
     "question": "廟□：寺院房舍。□應填下列何字？",
     "options": ["潮", "嘲", "朝", "廟"],
@@ -1035,8 +243,8 @@
     "explanation": "廟宇：指寺廟的建築物。"
   },
   {
-    "id": 6,
-    "unit": 12,
+    "id": 8,
+    "unit": 3,
     "category": "vocabulary",
     "question": "□廷：君主時代的政府。□應填下列何字？",
     "options": ["潮", "嘲", "朝", "廟"],
@@ -1044,8 +252,8 @@
     "explanation": "朝廷：指君主時代的政府機構。"
   },
   {
-    "id": 7,
-    "unit": 12,
+    "id": 9,
+    "unit": 3,
     "category": "vocabulary",
     "question": "注意□聽：注意聽聞。□應填下列何字？",
     "options": ["聆", "伶", "玲", "鈴"],
@@ -1053,8 +261,8 @@
     "explanation": "聆聽：指專心聽取的行為。"
   },
   {
-    "id": 8,
-    "unit": 12,
+    "id": 10,
+    "unit": 3,
     "category": "vocabulary",
     "question": "聰明□俐：聰明機靈，反應敏捷。□應填下列何字？",
     "options": ["聆", "伶", "玲", "鈴"],
@@ -1062,8 +270,8 @@
     "explanation": "聰明伶俐：形容人聰明機靈，反應靈敏。"
   },
   {
-    "id": 9,
-    "unit": 12,
+    "id": 1,
+    "unit": 4,
     "category": "vocabulary",
     "question": "□瓏剔透：形容器物精巧細緻，雕工完美。□應填下列何字？",
     "options": ["聆", "伶", "玲", "鈴"],
@@ -1071,8 +279,8 @@
     "explanation": "玲瓏剔透：形容物品精巧細緻，雕工完美。"
   },
   {
-    "id": 10,
-    "unit": 12,
+    "id": 2,
+    "unit": 4,
     "category": "vocabulary",
     "question": "□鐺：用金屬所製成的球形或扁圓形發聲器。□應填下列何字？",
     "options": ["聆", "伶", "玲", "鈴"],
@@ -1080,8 +288,8 @@
     "explanation": "鈴鐺：指金屬製的發聲器，常用於警報或裝飾。"
   },
     {
-    "id": 1,
-    "unit": 13,
+    "id": 3,
+    "unit": 4,
     "category": "vocabulary",
     "question": "□使：假使、如果。□應填下列何字？",
     "options": ["淌", "躺", "倘", "尚"],
@@ -1089,8 +297,8 @@
     "explanation": "倘使：表示假設的情況。"
   },
   {
-    "id": 2,
-    "unit": 13,
+    "id": 4,
+    "unit": 4,
     "category": "vocabulary",
     "question": "□方寶劍：古代指皇帝御用的寶劍。□應填下列何字？",
     "options": ["淌", "躺", "倘", "尚"],
@@ -1098,8 +306,8 @@
     "explanation": "尚方寶劍：指古代皇帝的御用寶劍。"
   },
    {
-    "id": 3,
-    "unit": 13,
+    "id": 5,
+    "unit": 4,
     "category": "vocabulary",
     "question": "孤□：孤單寂寞。□應填下列何字？",
     "options": ["獨", "燭", "屬", "躅"],
@@ -1107,8 +315,8 @@
     "explanation": "孤獨：形容孤單寂寞的狀態。"
   },
   {
-    "id": 4,
-    "unit": 13,
+    "id": 6,
+    "unit": 4,
     "category": "vocabulary",
     "question": "蠟□：用蠟和油製成，可燃燒發光的條狀物體。□應填下列何字？",
     "options": ["獨", "燭", "屬", "躅"],
@@ -1116,8 +324,8 @@
     "explanation": "蠟燭：指用蠟和油製成的燭光物品。"
   },
   {
-    "id": 5,
-    "unit": 13,
+    "id": 7,
+    "unit": 4,
     "category": "vocabulary",
     "question": "家□：家人，多指家長以外的親屬。□應填下列何字？",
     "options": ["獨", "燭", "屬", "躅"],
@@ -1125,8 +333,8 @@
     "explanation": "家屬：指家庭成員中，家長以外的親屬。"
   },
   {
-    "id": 6,
-    "unit": 13,
+    "id": 8,
+    "unit": 4,
     "category": "vocabulary",
     "question": "踟□：往復徘徊的樣子。□應填下列何字？",
     "options": ["獨", "燭", "屬", "躅"],
@@ -1134,8 +342,8 @@
     "explanation": "踟躅：形容徘徊不前的狀態。"
   },
   {
-    "id": 7,
-    "unit": 14,
+    "id": 9,
+    "unit": 4,
     "category": "vocabulary",
     "question": "□打：拍打。□應填下列何字？",
     "options": ["樸", "撲", "僕", "璞"],
@@ -1143,8 +351,8 @@
     "explanation": "撲打：指用手拍打的動作。"
   },
   {
-    "id": 8,
-    "unit": 14,
+    "id": 10,
+    "unit": 4,
     "category": "vocabulary",
     "question": "純□：純一樸實。□應填下列何字？",
     "options": ["樸", "撲", "僕", "璞"],
@@ -1152,8 +360,8 @@
     "explanation": "純樸：形容純一、樸實無華的樣子。"
   },
   {
-    "id": 9,
-    "unit": 14,
+    "id": 1,
+    "unit": 5,
     "category": "vocabulary",
     "question": "□人：被僱用供人使喚或做雜務的人。□應填下列何字？",
     "options": ["樸", "撲", "僕", "璞"],
@@ -1161,8 +369,8 @@
     "explanation": "僕人：指被僱用來為他人工作的人。"
   },
   {
-    "id": 10,
-    "unit": 14,
+    "id": 2,
+    "unit": 5,
     "category": "vocabulary",
     "question": "□玉：未經琢磨加工的玉石。□應填下列何字？",
     "options": ["樸", "撲", "僕", "璞"],
@@ -1170,8 +378,8 @@
     "explanation": "璞玉：指未經雕琢的玉石，形容有潛質的人。"
   },
    {
-    "id": 1,
-    "unit": 15,
+    "id": 3,
+    "unit": 5,
     "category": "vocabulary",
     "question": "□刀：摩擦而使物品光滑或銳利。□應填下列何字？",
     "options": ["摩", "魔", "磨", "摹"],
@@ -1179,8 +387,8 @@
     "explanation": "磨刀：指用磨石等工具使刀具變得鋒利。"
   },
   {
-    "id": 2,
-    "unit": 15,
+    "id": 4,
+    "unit": 5,
     "category": "vocabulary",
     "question": "著□：被邪魔附身。□應填下列何字？",
     "options": ["摩", "魔", "磨", "摹"],
@@ -1188,8 +396,8 @@
     "explanation": "著魔：形容被邪惡的力量所影響。"
   },
   {
-    "id": 3,
-    "unit": 15,
+    "id": 5,
+    "unit": 5,
     "category": "vocabulary",
     "question": "按□：對身體作敲、打、揉、搓等動作，以放鬆肌肉。□應填下列何字？",
     "options": ["摩", "魔", "磨", "摹"],
@@ -1197,8 +405,8 @@
     "explanation": "按摩：指對身體進行按摩的行為。"
   },
   {
-    "id": 4,
-    "unit": 15,
+    "id": 6,
+    "unit": 5,
     "category": "vocabulary",
     "question": "描□：依樣摹寫繪畫。□應填下列何字？",
     "options": ["摩", "魔", "磨", "摹"],
@@ -1206,8 +414,8 @@
     "explanation": "描摹：指依樣畫葫蘆的動作。"
   },
   {
-    "id": 5,
-    "unit": 15,
+    "id": 7,
+    "unit": 5,
     "category": "vocabulary",
     "question": "開□式：會議、典禮等一開始所舉行的儀式。□應填下列何字？",
     "options": ["募", "幕", "墓", "慕"],
@@ -1215,8 +423,8 @@
     "explanation": "開幕式：指會議或典禮開幕的儀式。"
   },
   {
-    "id": 6,
-    "unit": 15,
+    "id": 8,
+    "unit": 5,
     "category": "vocabulary",
     "question": "愛□：喜愛仰慕。□應填下列何字？",
     "options": ["募", "幕", "墓", "慕"],
@@ -1224,8 +432,8 @@
     "explanation": "愛慕：指對某人或某事的喜愛與仰慕。"
   },
   {
-    "id": 7,
-    "unit": 15,
+    "id": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "□款：募集錢財。□應填下列何字？",
     "options": ["募", "幕", "墓", "慕"],
@@ -1233,8 +441,8 @@
     "explanation": "募款：指募集資金的行為。"
   },
   {
-    "id": 8,
-    "unit": 15,
+    "id": 10,
+    "unit": 5,
     "category": "vocabulary",
     "question": "墳□：用土築成高起的墓。□應填下列何字？",
     "options": ["募", "幕", "墓", "慕"],
@@ -1242,8 +450,8 @@
     "explanation": "墳墓：指用土築成的高起的墓地。"
   },
   {
-    "id": 9,
-    "unit": 16,
+    "id": 1,
+    "unit": 6,
     "category": "vocabulary",
     "question": "□財：金錢財富的通稱。□應填下列何字？",
     "options": ["殘", "錢", "淺", "箋"],
@@ -1251,8 +459,8 @@
     "explanation": "錢財：指金錢和財富的總稱。"
   },
   {
-    "id": 10,
-    "unit": 16,
+    "id": 2,
+    "unit": 6,
     "category": "vocabulary",
     "question": "深□：本指水深的程度。後泛指深度。□應填下列何字？",
     "options": ["殘", "錢", "淺", "箋"],
@@ -1260,8 +468,8 @@
     "explanation": "深淺：指水的深度或其他深度的程度。"
   },
     {
-    "id": 1,
-    "unit": 17,
+    "id": 3,
+    "unit": 6,
     "category": "vocabulary",
     "question": "辣□醬：將辣椒搗爛而製成的醬。□應填下列何字？",
     "options": ["椒", "寂", "淑", "叔"],
@@ -1269,8 +477,8 @@
     "explanation": "辣椒醬：指用辣椒製作的調味醬。"
   },
   {
-    "id": 2,
-    "unit": 17,
+    "id": 4,
+    "unit": 6,
     "category": "vocabulary",
     "question": "□寞：孤單冷清。□應填下列何字？",
     "options": ["椒", "寂", "淑", "叔"],
@@ -1278,8 +486,8 @@
     "explanation": "寂寞：形容孤單和冷清的狀態。"
   },
   {
-    "id": 3,
-    "unit": 17,
+    "id": 5,
+    "unit": 6,
     "category": "vocabulary",
     "question": "賢□：形容女子善良溫厚。□應填下列何字？",
     "options": ["椒", "寂", "淑", "叔"],
@@ -1287,8 +495,8 @@
     "explanation": "賢淑：形容女子善良且有德行。"
   },
   {
-    "id": 4,
-    "unit": 17,
+    "id": 6,
+    "unit": 6,
     "category": "vocabulary",
     "question": "□姪：叔父與姪輩。□應填下列何字？",
     "options": ["椒", "寂", "淑", "叔"],
@@ -1296,8 +504,8 @@
     "explanation": "叔姪：指叔父與其姪子的關係。"
   },
   {
-    "id": 5,
-    "unit": 17,
+    "id": 7,
+    "unit": 6,
     "category": "vocabulary",
     "question": "□礙：阻礙通行的東西。□應填下列何字？",
     "options": ["障", "彰", "章", "樟"],
@@ -1305,8 +513,8 @@
     "explanation": "障礙：指妨礙通行的物體或情況。"
   },
   {
-    "id": 6,
-    "unit": 17,
+    "id": 8,
+    "unit": 6,
     "category": "vocabulary",
     "question": "欲蓋彌□：想要遮蓋掩飾反而更加明顯。□應填下列何字？",
     "options": ["障", "彰", "章", "樟"],
@@ -1314,8 +522,8 @@
     "explanation": "欲蓋彌彰：指想要隱藏的事情反而變得更明顯。"
   },
   {
-    "id": 7,
-    "unit": 17,
+    "id": 9,
+    "unit": 6,
     "category": "vocabulary",
     "question": "文□：文辭或泛指獨立成篇的文字。□應填下列何字？",
     "options": ["障", "彰", "章", "樟"],
@@ -1323,8 +531,8 @@
     "explanation": "文章：泛指文辭或獨立成篇的文字。"
   },
   {
-    "id": 8,
-    "unit": 17,
+    "id": 10,
+    "unit": 6,
     "category": "vocabulary",
     "question": "□腦丸：用樟腦製成的小球。□應填下列何字？",
     "options": ["障", "彰", "章", "樟"],
@@ -1332,8 +540,8 @@
     "explanation": "樟腦丸：指用樟腦製成的小球，有殺蟲和避臭氣的效果。"
   },
   {
-    "id": 9,
-    "unit": 18,
+    "id": 1,
+    "unit": 7,
     "category": "vocabulary",
     "question": "□手：舉手揮動。□應填下列何字？",
     "options": ["揮", "渾", "輝", "暉"],
@@ -1341,16 +549,16 @@
     "explanation": "揮手：指用手揮舞的動作。"
   },
   {
-    "id": 10,
-    "unit": 18,
+    "id": 2,
+    "unit": 7,
     "category": "vocabulary",
     "question": "□身是膽：比喻人膽量大，無所畏忌。□應填下列何字？",
     "options": ["揮", "渾", "輝", "暉"],
     "answer": 1,
     "explanation": "渾身是膽：形容人膽量大，無所畏懼的狀態。"
   },  {
-    "id": 1,
-    "unit": 19,
+    "id": 3,
+    "unit": 7,
     "category": "vocabulary",
     "question": "□淚：流淚。□應填下列何字？",
     "options": ["淌", "躺", "倘", "尚"],
@@ -1358,12 +566,804 @@
     "explanation": "淌淚：指流淚的動作。"
   },
   {
-    "id": 2,
-    "unit": 19,
+    "id": 4,
+    "unit": 7,
     "category": "vocabulary",
     "question": "□平：使身體呈平倒的狀態。□應填下列何字？",
     "options": ["淌", "躺", "倘", "尚"],
     "answer": 1,
     "explanation": "躺平：指身體呈平倒的狀態。"
-  } 
+  },
+  {
+    "id": 5,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「花瓣」的「瓣」字意思是什麼？",
+    "options": ["花片", "樹名", "分別", "賠償"],
+    "answer": 0,
+    "explanation": "「瓣」指花的片，常用於形容花瓣。"
+  },
+  {
+    "id": 6,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「辦學校」的「辦」字意思是什麼？",
+    "options": ["創設、經營", "分別、判別", "爭論是非", "分股編成"],
+    "answer": 0,
+    "explanation": "「辦」指創設或經營某事物，如辦學校。"
+  },
+  {
+    "id": 8,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「分辨」的「辨」字意思是什麼？",
+    "options": ["分別、判別", "償還", "陪伴", "接近"],
+    "answer": 0,
+    "explanation": "「辨」指分別或判別，如分辨是非。"
+  },
+  {
+    "id": 9,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「辯論」的「辯」字意思是什麼？",
+    "options": ["爭論是非", "愛惜、哀憐", "接近", "小薄片"],
+    "answer": 0,
+    "explanation": "「辯」指爭論或辯論，如爭辯。"
+  },
+  {
+    "id": 10,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「辮子」的「辮」字意思是什麼？",
+    "options": ["髮型", "樹名", "海中的大船", "金屬薄片"],
+    "answer": 0,
+    "explanation": "「辮」指編成條狀的髮型，如辮子。"
+  },
+  {
+    "id": 1,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「加倍」的「倍」字意思是什麼？",
+    "options": ["照原數加倍", "養育", "陪伴", "償還"],
+    "answer": 0,
+    "explanation": "「倍」指數量的增加，如加倍。"
+  },
+  {
+    "id": 2,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「培養」的「培」字意思是什麼？",
+    "options": ["養育人才", "陪伴", "償還", "分別"],
+    "answer": 0,
+    "explanation": "「培」指培養或育成，如培養人才。"
+  },
+  {
+    "id": 3,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「陪伴」的「陪」字意思是什麼？",
+    "options": ["陪伴", "養育", "償還", "分別"],
+    "answer": 0,
+    "explanation": "「陪」指伴隨或陪伴他人。"
+  },
+  {
+    "id": 4,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「賠償」的「賠」字意思是什麼？",
+    "options": ["償還", "陪伴", "分別", "養育"],
+    "answer": 0,
+    "explanation": "「賠」指償還或賠償，如賠款。"
+  },
+  {
+    "id": 5,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「部份」的「部」字意思是什麼？",
+    "options": ["全體中的一些分子", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「部」指整體中的一部分，如局部。"
+  },
+  {
+    "id": 6,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「嶙峋」的「嶙」字意思是什麼？",
+    "options": ["山石重疊不平", "愛惜、哀憐", "接近", "小薄片"],
+    "answer": 0,
+    "explanation": "「嶙」形容山石重疊不平的樣子。"
+  },
+  {
+    "id": 7,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「可憐」的「憐」字意思是什麼？",
+    "options": ["愛惜、哀憐", "陪伴", "償還", "分別"],
+    "answer": 0,
+    "explanation": "「憐」指對他人懷有同情或愛惜之情。"
+  },
+  {
+    "id": 9,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「鄰近」的「鄰」字意思是什麼？",
+    "options": ["接近", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「鄰」指接近或相鄰的地方。"
+  },
+  {
+    "id": 10,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「魚鱗」的「鱗」字意思是什麼？",
+    "options": ["魚獸類身上的小薄片", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「鱗」指魚或其他動物的外皮小片。"
+  },
+  {
+    "id": 1,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「停泊」的「泊」字意思是什麼？",
+    "options": ["船靠岸", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「泊」指船隻靠岸停放。"
+  },
+  {
+    "id": 2,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「柏樹」的「柏」字意思是什麼？",
+    "options": ["樹名", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「柏」指一種樹木，如扁柏、松柏。"
+  },
+  {
+    "id": 3,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「大舶」的「舶」字意思是什麼？",
+    "options": ["海中的大船", "陪伴", "償還", "分別"],
+    "answer": 0,
+    "explanation": "「舶」指海上行駛的大型船隻。"
+  },
+  {
+    "id": 4,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「錫箔」的「箔」字意思是什麼？",
+    "options": ["金屬打造的薄片", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「箔」指用金屬製作的薄片，如錫箔。"
+  },
+  {
+    "id": 5,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「蜂蜜」的「蜜」字意思是什麼？",
+    "options": ["採花液釀成的甜汁", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「蜜」指蜜蜂採集花蜜釀成的甜汁。"
+  },
+  {
+    "id": 6,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「祕密」的「密」字意思是什麼？",
+    "options": ["不應洩露的事情", "陪伴", "分別", "償還"],
+    "answer": 0,
+    "explanation": "「密」指保護不讓外人知道的事情，如祕密。"
+  },
+  {
+    "id": 7,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「耽擱」的「耽」字意思是什麼？",
+    "options": ["延遲、延誤", "著迷、沉溺於某事", "喧鬧", "洗滌"],
+    "answer": 0,
+    "explanation": "「耽」指延遲或延誤的意思。"
+  },
+  {
+    "id": 8,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「虎視眈眈」的「眈」字意思是什麼？",
+    "options": ["雙眼直視、瞪視", "著迷", "延誤", "沉溺"],
+    "answer": 0,
+    "explanation": "「眈」指雙眼直視或瞪視的樣子。"
+  },
+  {
+    "id": 10,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「噪音」的「噪」字意思是什麼？",
+    "options": ["喧鬧", "洗滌", "乾的", "性急"],
+    "answer": 0,
+    "explanation": "「噪」指喧鬧的聲音。"
+  },
+  {
+    "id": 1,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「洗澡」的「澡」字意思是什麼？",
+    "options": ["洗滌", "喧鬧", "乾的", "性急"],
+    "answer": 0,
+    "explanation": "「澡」指洗滌或清洗的行為。"
+  },
+  {
+    "id": 2,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「乾燥」的「燥」字意思是什麼？",
+    "options": ["乾的、缺少水分的", "性急", "羞愧", "獸肉腥臊的氣味"],
+    "answer": 0,
+    "explanation": "「燥」指缺少水分的乾燥狀態。"
+  },
+  {
+    "id": 3,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「急躁」的「躁」字意思是什麼？",
+    "options": ["性急", "乾的", "羞愧", "獸肉腥臊的氣味"],
+    "answer": 0,
+    "explanation": "「躁」指性急或心急的狀態。"
+  },
+  {
+    "id": 4,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「害臊」的「臊」字意思是什麼？",
+    "options": ["羞愧", "獸肉腥臊的氣味", "性急", "洗滌"],
+    "answer": 0,
+    "explanation": "「臊」指羞愧或感到羞恥的情緒。"
+  },
+  {
+    "id": 5,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「羊臊味」的「臊」字意思是什麼？",
+    "options": ["獸肉腥臊的氣味", "羞愧", "性急", "洗滌"],
+    "answer": 0,
+    "explanation": "「臊」指獸肉的腥味，特指羊肉的氣味。"
+  },
+  {
+    "id": 6,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「水藻」的「藻」字意思是什麼？",
+    "options": ["水草名", "羞愧", "性急", "洗滌"],
+    "answer": 0,
+    "explanation": "「藻」指水中的草類植物。"
+  },
+  {
+    "id": 7,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「腦筋」的「腦」字意思是什麼？",
+    "options": ["指思想、記憶等能力", "憤怒", "煩悶不愉快", "洗滌"],
+    "answer": 0,
+    "explanation": "「腦」指與思想、記憶等相關的能力。"
+  },
+  {
+    "id": 8,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「惱羞成怒」的「惱」字意思是什麼？",
+    "options": ["憤怒", "煩悶不愉快", "洗滌", "分別"],
+    "answer": 0,
+    "explanation": "「惱」指感到憤怒或煩悶。"
+  },
+  {
+    "id": 9,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「目睹」的「睹」字意思是什麼？",
+    "options": ["看見", "爭強", "塞住", "死亡"],
+    "answer": 0,
+    "explanation": "「睹」指看見或目擊的意思。"
+  },
+  {
+    "id": 10,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「賭博」的「賭」字意思是什麼？",
+    "options": ["爭強", "看見", "塞住", "死亡"],
+    "answer": 0,
+    "explanation": "「賭博」指以財物下注進行的遊戲。"
+  },
+  {
+    "id": 1,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「堵塞」的「堵」字意思是什麼？",
+    "options": ["塞住", "爭強", "看見", "死亡"],
+    "answer": 0,
+    "explanation": "「堵」指塞住或阻擋的意思。"
+  },
+  {
+    "id": 2,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「敝屣」的「敝」字意思是什麼？",
+    "options": ["破的、壞的", "自謙之詞", "遮掩", "錢"],
+    "answer": 0,
+    "explanation": "「敝」指破舊或壞掉的東西。"
+  },
+  {
+    "id": 3,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「敞開」的「敞」字意思是什麼？",
+    "options": ["張開", "寬廣", "遮掩", "錢"],
+    "answer": 0,
+    "explanation": "「敞」指張開或打開的樣子。"
+  },
+  {
+    "id": 4,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「遮蔽」的「蔽」字意思是什麼？",
+    "options": ["遮掩、掩蓋", "破的", "自謙之詞", "錢"],
+    "answer": 0,
+    "explanation": "「蔽」指遮掩或掩蓋的意思。"
+  },
+  {
+    "id": 5,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「錢幣」的「幣」字意思是什麼？",
+    "options": ["錢，用來交易的媒介", "遮掩", "破的", "自謙之詞"],
+    "answer": 0,
+    "explanation": "「幣」指用於交易的貨幣或金屬。"
+  },
+  {
+    "id": 6,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「作弊」的「弊」字意思是什麼？",
+    "options": ["非法的情事", "遮掩", "破的", "自謙之詞"],
+    "answer": 0,
+    "explanation": "「弊」指不正當或非法的行為。"
+  },
+  {
+    "id": 7,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「坐以待斃」的「斃」字意思是什麼？",
+    "options": ["死亡", "遮掩", "破的", "自謙之詞"],
+    "answer": 0,
+    "explanation": "「斃」指死亡或喪命的意思。"
+  },
+  {
+    "id": 8,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「憋尿」的「憋」字意思是什麼？",
+    "options": ["壓抑、強忍著", "死亡", "遮掩", "破的"],
+    "answer": 0,
+    "explanation": "「憋」指壓抑或強忍的狀態。"
+  },
+  {
+    "id": 9,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「驚鴻一瞥」的「瞥」字意思是什麼？",
+    "options": ["眼神一閃", "死亡", "遮掩", "破的"],
+    "answer": 0,
+    "explanation": "「瞥」指眼神一閃，快速的過目。"
+  },
+  {
+    "id": 10,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「債務」的「債」字意思是什麼？",
+    "options": ["欠人錢財", "功業成就", "儲存", "行蹤"],
+    "answer": 0,
+    "explanation": "「債」指欠他人的財物或金錢。"
+  },
+  {
+    "id": 1,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「成績」的「績」字意思是什麼？",
+    "options": ["功業成就", "儲存", "欠人錢財", "行蹤"],
+    "answer": 0,
+    "explanation": "「績」指所取得的成就或成果。"
+  },
+  {
+    "id": 2,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「積蓄」的「積」字意思是什麼？",
+    "options": ["儲存、力圖進取", "欠人錢財", "功業成就", "行蹤"],
+    "answer": 0,
+    "explanation": "「積」指儲存或累積的行為。"
+  },
+  {
+    "id": 3,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「蹤跡」的「蹟」字意思是什麼？",
+    "options": ["行蹤", "功業成就", "欠人錢財", "儲存"],
+    "answer": 0,
+    "explanation": "「蹟」指行蹤或留下的痕跡。"
+  },
+  {
+    "id": 4,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「油漬」的「漬」字意思是什麼？",
+    "options": ["汙點／浸泡", "功業成就", "欠人錢財", "行蹤"],
+    "answer": 0,
+    "explanation": "「漬」指浸泡或留下的汙點。"
+  },
+  {
+    "id": 5,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「嘖嘖」的「嘖」字意思是什麼？",
+    "options": ["發出讚美的聲音", "功業成就", "欠人錢財", "行蹤"],
+    "answer": 0,
+    "explanation": "「嘖」指發出讚美或驚奇的聲音。"
+  },
+  {
+    "id": 6,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「締結」的「締」字意思是什麼？",
+    "options": ["結合、訂立", "吩咐", "道理", "仔細"],
+    "answer": 0,
+    "explanation": "「締」指結合或訂立協議的行為。"
+  },
+  {
+    "id": 7,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「真諦」的「諦」字意思是什麼？",
+    "options": ["道理、義理", "吩咐", "結合", "仔細"],
+    "answer": 0,
+    "explanation": "「諦」指真理或道理的意思。"
+  },
+  {
+    "id": 8,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「考卷」的「卷」字意思是什麼？",
+    "options": ["書籍的通稱", "可作憑證的紙票", "明滅閃動的樣子", "叫喊、呼喊"],
+    "answer": 0,
+    "explanation": "「卷」指考試或測驗的題紙。"
+  },
+  {
+    "id": 9,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「入場券」的「券」字意思是什麼？",
+    "options": ["可作憑證的紙票", "書籍的通稱", "明滅閃動的樣子", "叫喊、呼喊"],
+    "answer": 0,
+    "explanation": "「券」指可以作為憑證的紙票或票據。"
+  },
+  {
+    "id": 10,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「美輪美奐」的「奐」字意思是什麼？",
+    "options": ["文采鮮明而美麗", "叫喊、呼喊", "明滅閃動的樣子", "可作憑證的紙票"],
+    "answer": 0,
+    "explanation": "「奐」指文采出眾、華麗的樣子。"
+  },
+  {
+    "id": 1,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「千呼萬喚」的「喚」字意思是什麼？",
+    "options": ["叫喊、呼喊", "文采鮮明而美麗", "明滅閃動的樣子", "可作憑證的紙票"],
+    "answer": 0,
+    "explanation": "「喚」指大聲呼喊或叫喚的行為。"
+  },
+  {
+    "id": 2,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「身體癱瘓」的「瘓」字意思是什麼？",
+    "options": ["肢體麻木，不能自由活動", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
+    "answer": 0,
+    "explanation": "「瘓」指身體的肢體無法自由活動的狀態。"
+  },
+  {
+    "id": 3,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「更換」的「換」字意思是什麼？",
+    "options": ["改變、更改", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
+    "answer": 0,
+    "explanation": "「換」指改變或更改的行為。"
+  },
+  {
+    "id": 4,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「容光煥發」的「煥」字意思是什麼？",
+    "options": ["明亮、有神的樣子", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
+    "answer": 0,
+    "explanation": "「煥」指明亮或有神采的樣子。"
+  },
+  {
+    "id": 5,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「精神渙散」的「渙」字意思是什麼？",
+    "options": ["離散、不集中的樣子", "叫喊、呼喊", "文采鮮明而美麗", "可作憑證的紙票"],
+    "answer": 0,
+    "explanation": "「渙」指精神不集中或分散的狀態。"
+  },
+  {
+    "id": 6,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「衷心」的「衷」字意思是什麼？",
+    "options": ["內心", "悲傷，心裡難過", "由強盛而逐漸弱敗", "明滅閃動的樣子"],
+    "answer": 0,
+    "explanation": "「衷」指內心或心底的情感。"
+  },
+  {
+    "id": 7,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「悲哀」的「哀」字意思是什麼？",
+    "options": ["悲傷，心裡難過", "內心", "由強盛而逐漸弱敗", "明滅閃動的樣子"],
+    "answer": 0,
+    "explanation": "「哀」指感到悲傷或難過的情緒。"
+  },
+  {
+    "id": 8,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「衰弱」的「衰」字意思是什麼？",
+    "options": ["由強盛而逐漸弱敗", "內心", "悲傷，心裡難過", "明滅閃動的樣子"],
+    "answer": 0,
+    "explanation": "「衰」指從強盛到衰弱的過程。"
+  },
+  {
+    "id": 9,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「閃爍」的「爍」字意思是什麼？",
+    "options": ["明滅閃動的樣子", "由強盛而逐漸弱敗", "內心", "悲傷，心裡難過"],
+    "answer": 0,
+    "explanation": "「爍」指明亮閃爍的樣子。"
+  },
+  {
+    "id": 10,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「熔鑠」的「鑠」字意思是什麼？",
+    "options": ["用火熔化金屬", "內心", "悲傷，心裡難過", "明滅閃動的樣子"],
+    "answer": 0,
+    "explanation": "「鑠」指用火熔化金屬的過程。"
+  },
+  {
+    "id": 1,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「小礫」的「礫」字意思是什麼？",
+    "options": ["小石子", "埋葬死者的地方", "每一季的第三個月", "傍晚"],
+    "answer": 0,
+    "explanation": "「礫」指小石子的意思。"
+  },
+  {
+    "id": 2,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「墳墓」的「墓」字意思是什麼？",
+    "options": ["埋葬死者的地方", "每一季的第三個月", "傍晚", "心中有所悸動"],
+    "answer": 0,
+    "explanation": "「墓」指埋葬死者的地方。"
+  },
+  {
+    "id": 3,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「暮春」的「暮」字意思是什麼？",
+    "options": ["每一季的第三個月", "埋葬死者的地方", "心中有所悸動", "傍晚"],
+    "answer": 0,
+    "explanation": "「暮」指每一季的最後一個月或傍晚的意思。"
+  },
+  {
+    "id": 4,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「羨慕」的「慕」字意思是什麼？",
+    "options": ["心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月", "傍晚"],
+    "answer": 0,
+    "explanation": "「慕」指對他人或事物心生向往的情感。"
+  },
+  {
+    "id": 5,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「開幕」的「幕」字意思是什麼？",
+    "options": ["通常用來遮蔽空間的布料", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
+    "answer": 0,
+    "explanation": "「幕」指用來遮擋空間的布料或帷幕。"
+  },
+  {
+    "id": 6,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「募款」的「募」字意思是什麼？",
+    "options": ["廣求、召集", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
+    "answer": 0,
+    "explanation": "「募」指廣泛尋求或召集的行為。"
+  },
+  {
+    "id": 7,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「臨摹」的「摹」字意思是什麼？",
+    "options": ["仿效、模擬", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
+    "answer": 0,
+    "explanation": "「摹」指仿效或模擬的行為。"
+  },
+  {
+    "id": 8,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「驀然」的「驀」字意思是什麼？",
+    "options": ["忽然、突然", "心中有所悸動、望想", "埋葬死者的地方", "每一季的第三個月"],
+    "answer": 0,
+    "explanation": "「驀」指忽然或突然的情況。"
+  },
+  {
+    "id": 9,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「金屬」的「屬」字意思是什麼？",
+    "options": ["類別／親眷", "吩咐、叮嚀", "被別人注視、重視", "每一季的第三個月"],
+    "answer": 0,
+    "explanation": "「屬」指類別或親屬的意思。"
+  },
+  {
+    "id": 10,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "「囑託」的「囑」字意思是什麼？",
+    "options": ["吩咐、叮嚀", "類別／親眷", "被別人注視、重視", "每一季的第三個月"],
+    "answer": 0,
+    "explanation": "「囑」指叮囑或吩咐的意思。"
+  },
+  {
+    "id": 1,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「眾所矚目」的「矚」字意思是什麼？",
+    "options": ["被別人注視、重視", "類別／親眷", "吩咐、叮嚀", "每一季的第三個月"],
+    "answer": 0,
+    "explanation": "「矚」指被他人注視或重視的狀態。"
+  },
+  {
+    "id": 2,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「使用優惠□購物，往往比較便宜。」□中應填入哪個國字？",
+    "options": ["捲", "倦", "卷", "券"],
+    "answer": 3,
+    "explanation": "「券」指可作憑證的紙票或票據。"
+  },
+  {
+    "id": 3,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「眾口□金，人言可畏。」□中應填入哪個國字？",
+    "options": ["鑠", "樂", "礫", "爍"],
+    "answer": 3,
+    "explanation": "「爍」指光亮閃爍的樣子，這裡形容人言的威力。"
+  },
+  {
+    "id": 4,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「他們朝□相處之下，日久生情。」□中應填入哪個國字？",
+    "options": ["幕", "慕", "募", "暮"],
+    "answer": 3,
+    "explanation": "「暮」指傍晚或某一季的最後一個月。"
+  },
+  {
+    "id": 5,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「她的穿戴打扮，十分引人□目。」□中應填入哪個國字？",
+    "options": ["屬", "囑", "矚", "蜀"],
+    "answer": 2,
+    "explanation": "「矚」指被別人注視或重視的狀態。"
+  },
+  {
+    "id": 6,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「雖然只是驚鴻一□，她就愛上他。」□中應填入哪一個國字？",
+    "options": ["瞥", "憋", "幣", "斃"],
+    "answer": 0,
+    "explanation": "「瞥」指眼神一閃，快速的過目。"
+  },
+  {
+    "id": 7,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「我們□心希望你早日康復。」□中應填入哪個國字？",
+    "options": ["衷", "哀", "衰", "袞"],
+    "answer": 0,
+    "explanation": "「衷」指內心或心底的情感。"
+  },
+  {
+    "id": 8,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「他眉開眼笑，精神□發。」□中應填入哪個國字？",
+    "options": ["換", "奐", "煥", "渙"],
+    "answer": 2,
+    "explanation": "「煥」指明亮或有神采的樣子。"
+  },
+  {
+    "id": 9,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「愛的真□在於付出，而非占有。」□中應填入哪個國字？",
+    "options": ["締", "帝", "諦", "蒂"],
+    "answer": 2,
+    "explanation": "「諦」指道理或真理的意思。"
+  },
+  {
+    "id": 10,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "「不要因為這樣的小事而煩□。」□中應填入哪個國字？",
+    "options": ["瑙", "惱", "腦", "淄"],
+    "answer": 1,
+    "explanation": "「惱」指感到憤怒或煩悶的情緒。"
+  },
+  {
+    "id": 1,
+    "unit": 16,
+    "category": "vocabulary",
+    "question": "「他年紀還輕，遇事難免心浮氣□。」□中應填入哪個國字？",
+    "options": ["躁", "燥", "臊", "噪"],
+    "answer": 0,
+    "explanation": "「躁」指性急或心急的狀態。"
+  },
+  {
+    "id": 2,
+    "unit": 16,
+    "category": "vocabulary",
+    "question": "「隔壁林家是我們相處多年的好□居。」□中應填入哪個國字？",
+    "options": ["憐", "鄰", "磷", "嶙"],
+    "answer": 1,
+    "explanation": "「鄰」指接近或相鄰的地方。"
+  },
+  {
+    "id": 3,
+    "unit": 16,
+    "category": "vocabulary",
+    "question": "「做事要按□就班，不可操之過急。」□中應填入哪個國字？",
+    "options": ["部", "陪", "倍", "培"],
+    "answer": 0,
+    "explanation": "按部就班：做事依照一定的層次、步驟或規矩進行。"
+  },
+  {
+    "id": 4,
+    "unit": 16,
+    "category": "vocabulary",
+    "question": "「她綁了兩條小髮□，看起來很可愛。」□中應填入哪個國字？",
+    "options": ["辨", "辮", "辯", "辦"],
+    "answer": 1,
+    "explanation": "「辮」指編成條狀的髮型，如辮子。"
+  },
+  {
+    "id": 5,
+    "unit": 16,
+    "category": "vocabulary",
+    "question": "「那隻小狗被人遺棄了，真可□！」□中應填入哪個國字？",
+    "options": ["鄰", "磷", "嶙", "憐"],
+    "answer": 3,
+    "explanation": "「憐」指對他人懷有同情或愛惜之情。"
+  }
 ]
