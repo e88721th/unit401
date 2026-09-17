@@ -795,99 +795,575 @@
     "id": 9,
     "unit": 9,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["花「瓣」/爭「辯」", "「培」育/「部」分", "「憐」惜/「鄰」居", "停「泊」/「柏」油"],
-    "answer": 3,
-    "explanation": "「泊」和「柏」的發音相同,都是bó。"
+    "question": "旗□：旌旗、旗子。□應填下列何字？",
+    "options": ["織", "識", "幟", "熾"],
+    "answer": 2,
+    "explanation": "旗幟：旌旗、旗子。旗可作為標幟（記號、標記）。"
   },
   {
     "id": 10,
     "unit": 9,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「倍」數/「培」養", "「賠」償/「陪」伴", "「鄰」近/「憐」惜", "「燥」熱/「躁」動"],
+    "question": "認□：曾經相識。□應填下列何字？",
+    "options": ["摘", "謫", "滴", "敵"],
     "answer": 1,
-    "explanation": "「賠」和「陪」的發音相同,都是péi。"
+    "explanation": "認識：曾經相識。"
   },
   {
     "id": 1,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「嶙」峋/「鱗」片", "「瞥」見/「憋」尿", "「惱」羞/「腦」筋", "「堵」塞/「賭」博"],
-    "answer": 3,
-    "explanation": "「堵」和「賭」的發音相同,都是dǔ。"
+    "question": "紡□：紡紗與織布。□應填下列何字？",
+    "options": ["織", "識", "幟", "熾"],
+    "answer": 0,
+    "explanation": "紡織：紡紗與織布的過程。"
   },
   {
     "id": 2,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「敝」屣/「弊」端", "「斃」命/「逼」迫", "「瞥」見/「撇」開", "「蜜」蜂/「密」碼"],
-    "answer": 0,
-    "explanation": "「敝」和「弊」的發音相同,都是bì。"
+    "question": "熱□：很熱、酷熱。□應填下列何字？",
+    "options": ["織", "識", "幟", "熾"],
+    "answer": 3,
+    "explanation": "熾熱：指非常熱或酷熱的狀態。"
   },
   {
     "id": 3,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「積」蓄/「績」效", "「漬」點/「滓」水", "「嘖」嘖/「擇」擇", "「棄」置/「氣」氛"],
-    "answer": 0,
-    "explanation": "「積」和「績」的發音相同,都是jī。"
+    "question": "仇□：仇人、敵人。□應填下列何字？",
+    "options": ["摘", "謫", "滴", "敵"],
+    "answer": 3,
+    "explanation": "敵仇：指仇人或敵對的對象。"
   },
   {
     "id": 4,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「累」積/「類」似", "「嚴」肅/「言」辭", "「惱」羞/「腦」筋", "「燥」熱/「躁」動"],
-    "answer": 3,
-    "explanation": "「燥」和「躁」的發音相同,都是zào。"
+    "question": "水□石穿：比喻有志者事竟成。□應填下列何字？",
+    "options": ["摘", "謫", "滴", "敵"],
+    "answer": 2,
+    "explanation": "滴水：形容只要努力不懈就能夠成功。"
   },
   {
     "id": 5,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「債」務/「債」款", "「績」效/「積」分", "「蹟」象/「跡」象", "「噪」音/「躁」動"],
+    "question": "指□：指出錯誤並加以批評。□應填下列何字？",
+    "options": ["摘", "謫", "滴", "敵"],
     "answer": 1,
-    "explanation": "「績」和「積」的發音相同,都是jī。"
+    "explanation": "指謫：指出錯誤並加以批評。"
   },
   {
     "id": 6,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「睹」物/「賭」博", "「瞥」見/「撇」開", "「惱」羞/「腦」筋", "「堵」塞/「賭」博"],
+    "question": "丘□：土山。□應填下列何字？",
+    "options": ["陵", "綾", "凌", "稜"],
     "answer": 0,
-    "explanation": "「睹」和「賭」的發音相同,都是dǔ。"
+    "explanation": "丘陵：指土山或高地。"
   },
   {
     "id": 7,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「密」碼/「蜜」蜂", "「斃」命/「逼」迫", "「惱」羞/「腦」筋", "「燥」熱/「躁」動"],
-    "answer": 0,
-    "explanation": "「密」和「蜜」的發音相同,都是mì。"
+    "question": "□線：物體兩面相交所形成的線。□應填下列何字？",
+    "options": ["陵", "綾", "凌", "稜"],
+    "answer": 3,
+    "explanation": "稜線：指物體兩面相交所形成的邊緣。"
   },
   {
     "id": 8,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「敝」屣/「弊」端", "「斃」命/「逼」迫", "「瞥」見/「撇」開", "「蜜」蜂/「密」碼"],
-    "answer": 0,
-    "explanation": "「敝」和「弊」的發音相同,都是bì。"
+    "question": "□晨：清晨、黎明。□應填下列何字？",
+    "options": ["陵", "綾", "凌", "稜"],
+    "answer": 2,
+    "explanation": "凌晨：指清晨或黎明的時光。"
   },
   {
     "id": 9,
     "unit": 10,
     "category": "vocabulary",
-    "question": "下列「  」中,哪組的字音相同？",
-    "options": ["「耽」擱/「惱」羞", "「藻」類/「腦」筋", "「噪」音/「躁」動", "「瞥」見/「撇」開"],
+    "question": "裝□：裝飾室內。□應填下列何字？",
+    "options": ["橫", "潢", "磺", "簧"],
+    "answer": 1,
+    "explanation": "潢裝：指裝飾室內的設計或擺設。"
+  },
+  {
+    "id": 10,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "口沫□飛：唾液四處飛散。□應填下列何字？",
+    "options": ["橫", "潢", "磺", "簧"],
+    "answer": 0,
+    "explanation": "橫口沫：形容人放情談論，唾液四處飛散。"
+  },
+  {
+    "id": 1,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "硫□：一種非金屬元素，呈黃色固體狀。□應填下列何字？",
+    "options": ["橫", "潢", "磺", "簧"],
     "answer": 2,
-    "explanation": "「噪」和「躁」的發音相同,都是zào。"
-  }
+    "explanation": "磺硫：指一種非金屬元素，呈黃色固體狀。"
+  },
+  {
+    "id": 2,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "彈□床：有彈性鋼條裝置的床墊。□應填下列何字？",
+    "options": ["橫", "潢", "磺", "簧"],
+    "answer": 3,
+    "explanation": "簧彈：指有彈性鋼條裝置的床墊。"
+  },
+  {
+    "id": 3,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "汗□：汗水乾後留下的淡黃色痕跡。□應填下列何字？",
+    "options": ["積", "績", "嘖", "漬"],
+    "answer": 3,
+    "explanation": "漬汗：指汗水乾後留下的淡黃色痕跡。"
+  },
+  {
+    "id": 4,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "成□單：記錄成績的通知單。□應填下列何字？",
+    "options": ["積", "績", "嘖", "漬"],
+    "answer": 1,
+    "explanation": "績單：指記錄成績的通知單。"
+  },
+  {
+    "id": 5,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "□勞成疾：因長期過度勞累而生病。□應填下列何字？",
+    "options": ["積", "績", "嘖", "漬"],
+    "answer": 0,
+    "explanation": "積勞：指因長期過度勞累而生病。"
+  },
+  {
+    "id": 6,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "咂嘴作聲，表示驚奇、讚嘆。□應填下列何字？",
+    "options": ["積", "績", "嘖", "漬"],
+    "answer": 2,
+    "explanation": "嘖嘖：表示驚奇或讚嘆的聲音。"
+  },
+  {
+    "id": 7,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "□蜒：曲折延伸的樣子。□應填下列何字？",
+    "options": ["蜿", "碗", "婉", "腕"],
+    "answer": 0,
+    "explanation": "蜿蜒：形容曲折延伸的樣子。"
+  },
+  {
+    "id": 8,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "溫柔□約：溫和柔順、婉轉含蓄。□應填下列何字？",
+    "options": ["蜿", "碗", "婉", "腕"],
+    "answer": 2,
+    "explanation": "婉約：形容溫和柔順、婉轉含蓄的樣子。"
+  },
+   {
+    "id": 9,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "令人扼□：讓人感到惋惜。□應填下列何字？",
+    "options": ["蜿", "碗", "婉", "腕"],
+    "answer": 3,
+    "explanation": "腕令人扼：形容讓人感到惋惜或憤怒。"
+  },
+  {
+    "id": 10,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "□筷：吃飯用的飯碗、筷子。□應填下列何字？",
+    "options": ["蜿", "碗", "婉", "腕"],
+    "answer": 1,
+    "explanation": "碗筷：指吃飯時使用的碗和筷子。"
+  },
+    {
+    "id": 1,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "暖□：暖和。□應填下列何字？",
+    "options": ["援", "媛", "緩", "暖"],
+    "answer": 3,
+    "explanation": "暖和：指讓人感到溫暖的狀態。"
+  },
+  {
+    "id": 2,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "伸出□手：幫助救援他人。□應填下列何字？",
+    "options": ["援", "媛", "緩", "暖"],
+    "answer": 0,
+    "explanation": "援手：指伸出手來幫助他人。"
+  },
+  {
+    "id": 3,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "潮□：海水受日月引力的影響而定時漲落的現象。□應填下列何字？",
+    "options": ["潮", "嘲", "朝", "廟"],
+    "answer": 0,
+    "explanation": "潮汐：指海水定時漲落的現象。"
+  },
+  {
+    "id": 4,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "嘲□笑：嘲謔譏笑。□應填下列何字？",
+    "options": ["潮", "嘲", "朝", "廟"],
+    "answer": 1,
+    "explanation": "嘲笑：指譏笑或嘲諷的行為。"
+  },
+  {
+    "id": 5,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "廟□：寺院房舍。□應填下列何字？",
+    "options": ["潮", "嘲", "朝", "廟"],
+    "answer": 3,
+    "explanation": "廟宇：指寺廟的建築物。"
+  },
+  {
+    "id": 6,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "朝□廷：君主時代的政府。□應填下列何字？",
+    "options": ["潮", "嘲", "朝", "廟"],
+    "answer": 2,
+    "explanation": "朝廷：指君主時代的政府機構。"
+  },
+  {
+    "id": 7,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "注意□聽：注意聽聞。□應填下列何字？",
+    "options": ["聆", "伶", "玲", "鈴"],
+    "answer": 0,
+    "explanation": "聆聽：指專心聽取的行為。"
+  },
+  {
+    "id": 8,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "聰明□俐：聰明機靈，反應敏捷。□應填下列何字？",
+    "options": ["聆", "伶", "玲", "鈴"],
+    "answer": 1,
+    "explanation": "伶俐：形容人聰明機靈，反應靈敏。"
+  },
+  {
+    "id": 9,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "玲□瓏剔透：形容器物精巧細緻，雕工完美。□應填下列何字？",
+    "options": ["聆", "伶", "玲", "鈴"],
+    "answer": 2,
+    "explanation": "玲瓏：形容物品精巧細緻，雕工完美。"
+  },
+  {
+    "id": 10,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "鐺□：用金屬所製成的球形或扁圓形發聲器。□應填下列何字？",
+    "options": ["聆", "伶", "玲", "鈴"],
+    "answer": 3,
+    "explanation": "鈴鐺：指金屬製的發聲器，常用於警報或裝飾。"
+  },
+    {
+    "id": 1,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "假使□使：假使、如果。□應填下列何字？",
+    "options": ["淌", "躺", "倘", "尚"],
+    "answer": 2,
+    "explanation": "倘使：表示假設的情況。"
+  },
+  {
+    "id": 2,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "尚□方寶劍：古代指皇帝御用的寶劍。□應填下列何字？",
+    "options": ["淌", "躺", "倘", "尚"],
+    "answer": 3,
+    "explanation": "尚方：指古代皇帝的御用寶劍。"
+  },
+   {
+    "id": 3,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "孤□：孤單寂寞。□應填下列何字？",
+    "options": ["獨", "燭", "屬", "躅"],
+    "answer": 0,
+    "explanation": "獨孤：形容孤單寂寞的狀態。"
+  },
+  {
+    "id": 4,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "蠟□：用蠟和油製成，可燃燒發光的條狀物體。□應填下列何字？",
+    "options": ["獨", "燭", "屬", "躅"],
+    "answer": 1,
+    "explanation": "燭蠟：指用蠟和油製成的燭光物品。"
+  },
+  {
+    "id": 5,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "家□：家人，多指家長以外的親屬。□應填下列何字？",
+    "options": ["獨", "燭", "屬", "躅"],
+    "answer": 2,
+    "explanation": "屬家：指家庭成員中，家長以外的親屬。"
+  },
+  {
+    "id": 6,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "踟□：往復徘徊的樣子。□應填下列何字？",
+    "options": ["獨", "燭", "屬", "躅"],
+    "answer": 3,
+    "explanation": "躅踟：形容徘徊不前的狀態。"
+  },
+  {
+    "id": 7,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "拍□打：拍打。□應填下列何字？",
+    "options": ["樸", "撲", "僕", "璞"],
+    "answer": 1,
+    "explanation": "撲打：指用手拍打的動作。"
+  },
+  {
+    "id": 8,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "純□：純一樸實。□應填下列何字？",
+    "options": ["樸", "撲", "僕", "璞"],
+    "answer": 0,
+    "explanation": "樸純：形容純樸、無華的樣子。"
+  },
+  {
+    "id": 9,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "□人：被僱用供人使喚或做雜務的人。□應填下列何字？",
+    "options": ["樸", "撲", "僕", "璞"],
+    "answer": 2,
+    "explanation": "僕人：指被雇用來為他人工作的人。"
+  },
+  {
+    "id": 10,
+    "unit": 14,
+    "category": "vocabulary",
+    "question": "□玉：未經琢磨加工的玉石。□應填下列何字？",
+    "options": ["樸", "撲", "僕", "璞"],
+    "answer": 3,
+    "explanation": "璞玉：指未經雕琢的玉石，形容有潛質的人。"
+  },
+   {
+    "id": 1,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "磨□刀：摩擦而使物品光滑或銳利。□應填下列何字？",
+    "options": ["摩", "魔", "磨", "摹"],
+    "answer": 2,
+    "explanation": "磨刀：指用磨石等工具使刀具變得鋒利。"
+  },
+  {
+    "id": 2,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "著□：被邪魔附身。□應填下列何字？",
+    "options": ["摩", "魔", "磨", "摹"],
+    "answer": 1,
+    "explanation": "魔著：形容被邪惡的力量所影響。"
+  },
+  {
+    "id": 3,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "按□：對身體作敲、打、揉、搓等動作，以放鬆肌肉。□應填下列何字？",
+    "options": ["摩", "魔", "磨", "摹"],
+    "answer": 0,
+    "explanation": "摩按：指對身體進行按摩的行為。"
+  },
+  {
+    "id": 4,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "描□：依樣摹寫繪畫。□應填下列何字？",
+    "options": ["摩", "魔", "磨", "摹"],
+    "answer": 3,
+    "explanation": "摹描：指依樣畫葫蘆的動作。"
+  },
+  {
+    "id": 5,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "開□式：會議、典禮等一開始所舉行的儀式。□應填下列何字？",
+    "options": ["募", "幕", "墓", "慕"],
+    "answer": 1,
+    "explanation": "幕開：指會議或典禮開幕的儀式。"
+  },
+  {
+    "id": 6,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "愛□：喜愛仰慕。□應填下列何字？",
+    "options": ["募", "幕", "墓", "慕"],
+    "answer": 3,
+    "explanation": "慕愛：指對某人或某事的喜愛與仰慕。"
+  },
+  {
+    "id": 7,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "募□款：募集錢財。□應填下列何字？",
+    "options": ["募", "幕", "墓", "慕"],
+    "answer": 0,
+    "explanation": "募款：指募集資金的行為。"
+  },
+  {
+    "id": 8,
+    "unit": 15,
+    "category": "vocabulary",
+    "question": "墳□：用土築成高起的墓。□應填下列何字？",
+    "options": ["募", "幕", "墓", "慕"],
+    "answer": 2,
+    "explanation": "墓墳：指用土築成的高起的墓地。"
+  },
+  {
+    "id": 9,
+    "unit": 16,
+    "category": "vocabulary",
+    "question": "金錢□財：金錢財富的通稱。□應填下列何字？",
+    "options": ["殘", "錢", "淺", "箋"],
+    "answer": 1,
+    "explanation": "錢財：指金錢和財富的總稱。"
+  },
+  {
+    "id": 10,
+    "unit": 16,
+    "category": "vocabulary",
+    "question": "深□：本指水深的程度。後泛指深度。□應填下列何字？",
+    "options": ["殘", "錢", "淺", "箋"],
+    "answer": 2,
+    "explanation": "淺深：指水的深度或其他深度的程度。"
+  },
+    {
+    "id": 1,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "辣□醬：將辣椒搗爛而製成的醬。□應填下列何字？",
+    "options": ["椒", "寂", "淑", "叔"],
+    "answer": 0,
+    "explanation": "椒辣：指用辣椒製作的調味醬。"
+  },
+  {
+    "id": 2,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "□寞：孤單冷清。□應填下列何字？",
+    "options": ["椒", "寂", "淑", "叔"],
+    "answer": 1,
+    "explanation": "寂寞：形容孤單和冷清的狀態。"
+  },
+  {
+    "id": 3,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "賢□：形容女子善良溫厚。□應填下列何字？",
+    "options": ["椒", "寂", "淑", "叔"],
+    "answer": 2,
+    "explanation": "淑賢：形容女子善良且有德行。"
+  },
+  {
+    "id": 4,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "□姪：叔父與姪輩。□應填下列何字？",
+    "options": ["椒", "寂", "淑", "叔"],
+    "answer": 3,
+    "explanation": "叔姪：指叔父與其姪子的關係。"
+  },
+  {
+    "id": 5,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "阻礙□礙：阻礙通行的東西。□應填下列何字？",
+    "options": ["障", "彰", "章", "樟"],
+    "answer": 0,
+    "explanation": "障礙：指妨礙通行的物體或情況。"
+  },
+  {
+    "id": 6,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "欲蓋彌□：想要遮蓋掩飾反而更加明顯。□應填下列何字？",
+    "options": ["障", "彰", "章", "樟"],
+    "answer": 1,
+    "explanation": "彰顯：指想要隱藏的事情反而變得更明顯。"
+  },
+  {
+    "id": 7,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "文□：文辭或泛指獨立成篇的文字。□應填下列何字？",
+    "options": ["障", "彰", "章", "樟"],
+    "answer": 2,
+    "explanation": "章文：泛指文辭或獨立成篇的文字。"
+  },
+  {
+    "id": 8,
+    "unit": 17,
+    "category": "vocabulary",
+    "question": "樟□腦丸：用樟腦製成的小球。□應填下列何字？",
+    "options": ["障", "彰", "章", "樟"],
+    "answer": 3,
+    "explanation": "樟腦：指用樟腦製成的小球，有殺蟲和避臭氣的效果。"
+  },
+  {
+    "id": 9,
+    "unit": 18,
+    "category": "vocabulary",
+    "question": "舉手□動：舉手揮動。□應填下列何字？",
+    "options": ["揮", "渾", "輝", "暉"],
+    "answer": 0,
+    "explanation": "揮手：指用手揮動的動作。"
+  },
+  {
+    "id": 10,
+    "unit": 18,
+    "category": "vocabulary",
+    "question": "□身是膽：比喻人膽量大，無所畏忌。□應填下列何字？",
+    "options": ["揮", "渾", "輝", "暉"],
+    "answer": 1,
+    "explanation": "渾身：形容人膽量大，無所畏懼的狀態。"
+  },  {
+    "id": 1,
+    "unit": 19,
+    "category": "vocabulary",
+    "question": "流淚□：流淚。□應填下列何字？",
+    "options": ["淌", "躺", "倘", "尚"],
+    "answer": 0,
+    "explanation": "淌淚：指流淚的動作。"
+  },
+  {
+    "id": 2,
+    "unit": 19,
+    "category": "vocabulary",
+    "question": "□平：使身體呈平倒的狀態。□應填下列何字？",
+    "options": ["淌", "躺", "倘", "尚"],
+    "answer": 1,
+    "explanation": "躺平：指身體呈平倒的狀態。"
+  } 
 ]
