@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "unit": 2,
+    "unit": 1,
     "category": "vocabulary",
     "question": "「 」養人才 -- 養育人才。「 」應填下列何字？",
     "options": ["倍", "培", "陪", "賠"],
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "unit": 2,
+    "unit": 1,
     "category": "vocabulary",
     "question": "大「 」分 -- 全體中的一些分子。「 」應填下列何字？",
     "options": ["倍", "培", "陪", "部"],
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "unit": 2,
+    "unit": 1,
     "category": "vocabulary",
     "question": "「 」伴家人 -- 伴隨。「 」應填下列何字？",
     "options": ["倍", "培", "陪", "賠"],
@@ -91,7 +91,7 @@
   },
   {
     "id": 1,
-    "unit": 3,
+    "unit": 2,
     "category": "vocabulary",
     "question": "可「 」的小狗 -- 愛惜、哀憐。「 」應填下列何字？",
     "options": ["嶙", "憐", "鄰", "鱗"],
@@ -100,7 +100,7 @@
   },
   {
     "id": 2,
-    "unit": 3,
+    "unit": 2,
     "category": "vocabulary",
     "question": "魚「 」-- 魚獸類身上的小薄片。「 」應填下列何字？",
     "options": ["嶙", "憐", "鄰", "鱗"],
@@ -109,7 +109,7 @@
   },
   {
     "id": 3,
-    "unit": 3,
+    "unit": 2,
     "category": "vocabulary",
     "question": "「 」峋 -- 山石重疊不平的樣子。「 」應填下列何字？",
     "options": ["嶙", "憐", "鄰", "鱗"],
@@ -118,7 +118,7 @@
   },
   {
     "id": 4,
-    "unit": 3,
+    "unit": 2,
     "category": "vocabulary",
     "question": "「 」居 -- 接近。「 」應填下列何字？",
     "options": ["嶙", "憐", "鄰", "鱗"],
@@ -127,7 +127,7 @@
   },
   {
     "id": 5,
-    "unit": 4,
+    "unit": 2,
     "category": "vocabulary",
     "question": "船「 」-- 海中的大船。「 」應填下列何字？",
     "options": ["泊", "柏", "舶", "箔"],
@@ -136,7 +136,7 @@
   },
   {
     "id": 6,
-    "unit": 4,
+    "unit": 2,
     "category": "vocabulary",
     "question": "停「 」-- 船靠岸。「 」應填下列何字？",
     "options": ["泊", "柏", "舶", "箔"],
@@ -145,7 +145,7 @@
   },
   {
     "id": 7,
-    "unit": 4,
+    "unit": 2,
     "category": "vocabulary",
     "question": "錫「 」-- 金屬打造的薄片。「 」應填下列何字？",
     "options": ["泊", "柏", "舶", "箔"],
@@ -154,7 +154,7 @@
   },
   {
     "id": 8,
-    "unit": 4,
+    "unit": 2,
     "category": "vocabulary",
     "question": "松「 」-- 樹名。「 」應填下列何字？",
     "options": ["泊", "柏", "舶", "箔"],
@@ -163,7 +163,7 @@
   },
   {
     "id": 9,
-    "unit": 4,
+    "unit": 2,
     "category": "vocabulary",
     "question": "扁「 」-- 樹名。「 」應填下列何字？",
     "options": ["泊", "柏", "舶", "箔"],
@@ -172,7 +172,7 @@
   },
   {
     "id": 10,
-    "unit": 4,
+    "unit": 2,
     "category": "vocabulary",
     "question": "船「 」-- 海中的大船。「 」應填下列何字？",
     "options": ["泊", "柏", "舶", "箔"],
@@ -181,7 +181,7 @@
   },
   {
     "id": 1,
-    "unit": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "羊「 」味 -- 獸肉腥臊的氣味。「 」應填下列何字？",
     "options": ["噪", "澡", "燥", "臊"],
@@ -190,7 +190,7 @@
   },
   {
     "id": 2,
-    "unit": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "洗「 」-- 洗滌。「 」應填下列何字？",
     "options": ["噪", "澡", "燥", "躁"],
@@ -199,7 +199,7 @@
   },
   {
     "id": 3,
-    "unit": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "水「 」-- 水草名。「 」應填下列何字？",
     "options": ["噪", "澡", "燥", "藻"],
@@ -208,7 +208,7 @@
   },
   {
     "id": 4,
-    "unit": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "聒「 」-- 喧鬧。「 」應填下列何字？",
     "options": ["噪", "澡", "燥", "躁"],
@@ -217,7 +217,7 @@
   },
   {
     "id": 5,
-    "unit": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "急「 」-- 性急。「 」應填下列何字？",
     "options": ["噪", "澡", "燥", "躁"],
@@ -226,7 +226,7 @@
   },
   {
     "id": 6,
-    "unit": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "害「 」-- 羞愧。「 」應填下列何字？",
     "options": ["噪", "澡", "燥", "臊"],
@@ -235,7 +235,7 @@
   },
   {
     "id": 7,
-    "unit": 5,
+    "unit": 3,
     "category": "vocabulary",
     "question": "乾「 」-- 乾的、缺少水分的。「 」應填下列何字？",
     "options": ["噪", "澡", "燥", "躁"],
@@ -244,7 +244,7 @@
   },
   {
     "id": 8,
-    "unit": 6,
+    "unit": 3,
     "category": "vocabulary",
     "question": "煩「 」-- 煩悶不愉快。「 」應填下列何字？",
     "options": [ "惱", "瑙", "腦", "淄"],
@@ -253,7 +253,7 @@
   },
   {
     "id": 9,
-    "unit": 6,
+    "unit": 3,
     "category": "vocabulary",
     "question": "「 」袋 -- 泛稱頭部。「 」應填下列何字？",
     "options": ["瑙", "惱", "腦", "淄"],
@@ -262,7 +262,7 @@
   },
   {
     "id": 10,
-    "unit": 6,
+    "unit": 3,
     "category": "vocabulary",
     "question": "「 」羞成怒 -- 憤怒。「 」應填下列何字？",
     "options": ["瑙", "惱", "腦", "淄"],
@@ -271,7 +271,7 @@
   },
   {
     "id": 1,
-    "unit": 7,
+    "unit": 4,
     "category": "vocabulary",
     "question": "一「 」牆 -- 單位詞。「 」應填下列何字？",
     "options": ["睹", "賭", "堵", "都"],
@@ -280,7 +280,7 @@
   },
   {
     "id": 2,
-    "unit": 7,
+    "unit": 4,
     "category": "vocabulary",
     "question": "「 」氣 -- 爭強。「 」應填下列何字？",
     "options": ["睹", "賭", "堵", "都"],
@@ -289,7 +289,7 @@
   },
   {
     "id": 3,
-    "unit": 7,
+    "unit": 4,
     "category": "vocabulary",
     "question": "「 」博 -- 以財物做注而比勝負的遊戲。「 」應填下列何字？",
     "options": ["睹", "賭", "都", "堵"],
@@ -298,7 +298,7 @@
   },
   {
     "id": 4,
-    "unit": 7,
+    "unit": 4,
     "category": "vocabulary",
     "question": "「 」物思人 -- 看見。「 」應填下列何字？",
     "options": [ "都" , "睹", "賭", "堵"],
@@ -307,7 +307,7 @@
   },
   {
     "id": 5,
-    "unit": 7,
+    "unit": 4,
     "category": "vocabulary",
     "question": "「 」塞 -- 塞住。「 」應填下列何字？",
     "options": [ "賭", "堵" , "都", "睹"],
@@ -316,7 +316,7 @@
   },
   {
     "id": 6,
-    "unit": 8,
+    "unit": 4,
     "category": "vocabulary",
     "question": "坐以待「 」-- 指「死亡」。「 」應填下列何字？",
     "options": [ "弊", "斃", "憋", "瞥"],
@@ -325,7 +325,7 @@
   },
   {
     "id": 7,
-    "unit": 8,
+    "unit": 4,
     "category": "vocabulary",
     "question": "棄若「 」屣 -- 破的、壞的。「 」應填下列何字？",
     "options": ["敝", "敞", "蔽", "幣"],
@@ -334,7 +334,7 @@
   },
   {
     "id": 8,
-    "unit": 8,
+    "unit": 4,
     "category": "vocabulary",
     "question": "考試作「 」-- 非法的情事。「 」應填下列何字？",
     "options": [ "幣", "弊", "斃", "憋"],
@@ -343,7 +343,7 @@
   },
   {
     "id": 9,
-    "unit": 8,
+    "unit": 4,
     "category": "vocabulary",
     "question": "「 」尿 -- 壓抑、強忍著。「 」應填下列何字？",
     "options": [ "弊", "斃", "憋", "瞥"],
@@ -352,7 +352,7 @@
   },
   {
     "id": 10,
-    "unit": 8,
+    "unit": 4,
     "category": "vocabulary",
     "question": "「 」見 --眼神一閃，過目得很快的樣子。「 」應填下列何字？",
     "options": ["敝", "敞", "瞥", "幣" ],
@@ -361,7 +361,7 @@
   },
   {
     "id": 1,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「使用優惠□購物，往往比較便宜。」□中應填入哪個國字？",
     "options": ["捲", "倦", "卷", "券"],
@@ -370,7 +370,7 @@
   },
   {
     "id": 2,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「那隻小狗被人遺棄了，真可□！」□中應填入哪個國字？",
     "options": ["鄰", "磷", "嶙", "憐"],
@@ -379,7 +379,7 @@
   },
   {
     "id": 3,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「她綁了兩條小髮□，看起來很可愛。」□中應填入哪個國字？",
     "options": ["辨", "辮", "辯", "辦"],
@@ -388,7 +388,7 @@
   },
   {
     "id": 4,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「雖然只是驚鴻一□，她就愛上他。」□中應填入哪一個國字？",
     "options": ["瞥", "憋", "幣", "斃"],
@@ -397,7 +397,7 @@
   },
   {
     "id": 5,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「他眉開眼笑，精神□發。」□中應填入哪個國字？",
     "options": ["換", "奐", "煥", "渙"],
@@ -406,7 +406,7 @@
   },
   {
     "id": 6,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「愛的真□在於付出，而非占有。」□中應填入哪個國字？",
     "options": ["締", "帝", "諦", "蒂"],
@@ -415,7 +415,7 @@
   },
   {
     "id": 7,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「不要因為這樣的小事而煩□。」□中應填入哪個國字？",
     "options": ["瑙", "惱", "腦", "淄"],
@@ -424,7 +424,7 @@
   },
   {
     "id": 8,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「他年紀還輕，遇事難免心浮氣□。」□中應填入哪個國字？",
     "options": ["躁", "燥", "臊", "噪"],
@@ -433,7 +433,7 @@
   },
   {
     "id": 9,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「隔壁林家是我們相處多年的好□居。」□中應填入哪個國字？",
     "options": ["憐", "鄰", "磷", "嶙"],
@@ -442,7 +442,7 @@
   },
   {
     "id": 10,
-    "unit": 9,
+    "unit": 5,
     "category": "vocabulary",
     "question": "「做事要按□就班，不可操之過急。」□中應填入哪個國字？",
     "options": ["部", "陪", "倍", "培"],
